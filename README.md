@@ -10,7 +10,7 @@ Database and API.
 6. County Status/Order  
 
 
-We reach each dataset every two hours; however, most of the dataset here is updated daily.   
+##### We reach each dataset every two hours; however, most of the dataset here is updated daily.   
 
-Lead: Chuan-Yuan Hsu, Ph.D.
+Lead: Chuan-Yuan Hsu, Ph.D.  
 Co: Miin-Hung Chou
