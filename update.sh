@@ -1,23 +1,21 @@
 #!/bin/bash
 
 source /Users/cyhsu/miniconda3/bin/activate cyhsu
-PWD='/Users/cyhsu/dev/virus'
-#   '/Users/cyhsu/dev/virus/api/icu'
+HMD='/Users/cyhsu/dev/virus'
 
 #-- UPDATES
-
-	# Texas DSHS ##
-	CWD="${PWD}/api/cases/Texas"
+	# Texas DSHS
+	CWD="${HMD}/api/cases/Texas"
 	cd ${CWD} 
 	outlog='Texas.DSHS.'`date +%m-%d-%Y_%H:%M:%S`
-	echo ${PWD}/${outlog} 
-	ipython ./texas.py > ${PWD}/${outlog}
+	echo ${CWD}/${outlog} 
+	ipython ./texas.py > ${CWD}/${outlog}
 	##-- check file size 
-	fsize=`wc -c ${PWD}/${outlog} | awk '{print $1}'`
-	flimt=28
+	fsize=`wc -c ${CWD}/${outlog} | awk '{print $1}'`
+	flimt=32
 
 	if (( $(bc <<<"$fsize <= $flimt") )); then 
-	   rm -rf ${PWD}/${outlog} 
+	   rm -rf ${CWD}/${outlog} 
 	fi
 
 	#-- CDC
@@ -28,17 +26,17 @@ PWD='/Users/cyhsu/dev/virus'
 
 
 	#-- Hospital Energy, i.e. icu beds, use rate etc..
-	CWD="${PWD}/api/icu"
+	CWD="${HMD}/api/icu"
 	cd ${CWD} 
 	outlog='icu.'`date +%m-%d-%Y_%H:%M:%S`
-	echo ${PWD}/${outlog} 
-	ipython ./hospital.py > ${PWD}/${outlog}
+	echo ${CWD}/${outlog} 
+	ipython ./hospital.py > ${CWD}/${outlog}
 	##-- check file size 
-	fsize=`wc -c ${PWD}/${outlog} | awk '{print $1}'`
+	fsize=`wc -c ${CWD}/${outlog} | awk '{print $1}'`
 	flimt=28
 
 	if (( $(bc <<<"$fsize <= $flimt") )); then 
-	   rm -rf ${PWD}/${outlog} 
+	   rm -rf ${CWD}/${outlog} 
 	fi
 
 	
