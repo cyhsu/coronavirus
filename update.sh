@@ -37,11 +37,10 @@ PWD='/Users/cyhsu/dev/virus'
 #-- GitHub
 GIT=`which git`
 github="Update on  `date +%m-%d-%Y_%H:%M:%S`"
-echo ${github}
 ${GIT} add --all 
 ###${GIT} status
 ${GIT} commit -m "${github}"
-###${GIT} push 
+${GIT} push 
 
 
 echo " "
