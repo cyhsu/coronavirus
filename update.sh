@@ -6,8 +6,19 @@ PWD='/Users/cyhsu/dev/virus'
 
 #-- UPDATES
 
-	#-- Cases.
-	## Texas DSHS ##
+	# Texas DSHS ##
+	CWD="${PWD}/api/cases/Texas"
+	cd ${CWD} 
+	outlog='Texas.DSHS.'`date +%m-%d-%Y_%H:%M:%S`
+	echo ${PWD}/${outlog} 
+	ipython ./texas.py > ${PWD}/${outlog}
+	##-- check file size 
+	fsize=`wc -c ${PWD}/${outlog} | awk '{print $1}'`
+	flimt=28
+
+	if (( $(bc <<<"$fsize <= $flimt") )); then 
+	   rm -rf ${PWD}/${outlog} 
+	fi
 
 	#-- CDC
 
