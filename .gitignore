@@ -46,3 +46,6 @@ __pycache__/
 packages/
 
 #.gitignore
+*.ipynb
+*.py
+*.sh
