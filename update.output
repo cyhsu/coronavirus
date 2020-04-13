@@ -137,3 +137,21 @@ After doing this, you may fix the identity used for this commit with:
  
 /Users/cyhsu/dev/virus/api/cases/Texas/Texas.DSHS.04-12-2020_18:00:05
 /Users/cyhsu/dev/virus/api/icu/icu.04-12-2020_18:00:07
+[master 835d7bf] Update on  04-12-2020_18:00:08
+ Committer: Chuan-Yuan Hsu <cyhsu@cyhsu.tamu.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 4603 insertions(+)
+ create mode 100644 api/cases/texas/2020-04-12_16:08:13.dat
+ create mode 100644 api/cases/texas/Texas.DSHS.04-12-2020_18:00:05
+ 
