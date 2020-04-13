@@ -49,3 +49,4 @@ packages/
 *.ipynb
 *.py
 *.sh
+*.ipynb_checkpoints/
