@@ -50,3 +50,4 @@ packages/
 *.py
 *.sh
 *.ipynb_checkpoints/
+*.output
