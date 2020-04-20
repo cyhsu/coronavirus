@@ -2,3 +2,29 @@
 Johns_Hopkins.04-17-2020_16:07:08 Johns_Hopkins.04-19-2020_23:00:08
 Files are not the same. Record updates.
 /Users/cyhsu/dev/virus/dataset/icu/icu.04-19-2020_23:00:08
+[master 45d569d] Update on  04-19-2020_23:00:10
+ Committer: Chuan-Yuan Hsu <cyhsu@cyhsu.tamu.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 5110 insertions(+), 1345 deletions(-)
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-04-20_04:00:09
+ create mode 100644 dataset/cases/texas/2020-04-19_16:42:38.dat
+ create mode 100644 dataset/cases/texas/Texas.DSHS.04-19-2020_23:00:06
+ delete mode 100644 states/texas/.ipynb_checkpoints/convert_population2ppl-checkpoint.ipynb
+ delete mode 100644 states/texas/convert_population2ppl.ipynb
+ delete mode 100644 states/texas/county_list
+ delete mode 100644 states/texas/county_list_population
+ delete mode 100644 states/texas/county_list_ppl
+ create mode 100644 update.log.2020-04-20_04:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 

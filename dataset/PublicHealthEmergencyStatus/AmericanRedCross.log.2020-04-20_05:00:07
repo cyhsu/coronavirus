@@ -1,0 +1,523 @@
+ Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+ --Process Begin-- 
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Alabama
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Alabama'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Alabama.04-17-2020_12:23:49
+        New Download: AmericanRedCross.Alabama.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Alaska
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Alaska'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Alaska.04-17-2020_12:32:23
+        New Download: AmericanRedCross.Alaska.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Arizona
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Arizona'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Arizona.04-17-2020_12:32:23
+        New Download: AmericanRedCross.Arizona.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Arkansas
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Arkansas'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Arkansas.04-17-2020_12:32:23
+        New Download: AmericanRedCross.Arkansas.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/California
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='California'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.California.04-17-2020_12:32:24
+        New Download: AmericanRedCross.California.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Colorado
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Colorado'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Colorado.04-17-2020_12:32:24
+        New Download: AmericanRedCross.Colorado.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Connecticut
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Connecticut'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Connecticut.04-17-2020_12:32:24
+        New Download: AmericanRedCross.Connecticut.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Delaware
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Delaware'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Delaware.04-17-2020_12:32:25
+        New Download: AmericanRedCross.Delaware.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/District Of Columbia
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='District Of Columbia'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.District Of Columbia.04-17-2020_15:58:13
+        New Download: AmericanRedCross.District Of Columbia.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Florida
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Florida'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Florida.04-17-2020_12:32:25
+        New Download: AmericanRedCross.Florida.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Georgia
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Georgia'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Georgia.04-17-2020_12:32:25
+        New Download: AmericanRedCross.Georgia.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Hawaii
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Hawaii'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Hawaii.04-17-2020_12:32:26
+        New Download: AmericanRedCross.Hawaii.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Idaho
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Idaho'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Idaho.04-17-2020_15:49:42
+        New Download: AmericanRedCross.Idaho.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Illinois
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Illinois'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Illinois.04-17-2020_12:32:26
+        New Download: AmericanRedCross.Illinois.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Indiana
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Indiana'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Indiana.04-17-2020_12:32:27
+        New Download: AmericanRedCross.Indiana.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Iowa
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Iowa'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Iowa.04-17-2020_12:32:27
+        New Download: AmericanRedCross.Iowa.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Kansas
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Kansas'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Kansas.04-17-2020_12:32:27
+        New Download: AmericanRedCross.Kansas.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Kentucky
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Kentucky'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Kentucky.04-17-2020_12:32:27
+        New Download: AmericanRedCross.Kentucky.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Louisiana
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Louisiana'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Louisiana.04-17-2020_12:32:28
+        New Download: AmericanRedCross.Louisiana.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Maine
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Maine'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Maine.04-17-2020_12:32:28
+        New Download: AmericanRedCross.Maine.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Maryland
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Maryland'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Maryland.04-17-2020_12:32:28
+        New Download: AmericanRedCross.Maryland.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Massachusetts
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Massachusetts'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Massachusetts.04-17-2020_12:32:29
+        New Download: AmericanRedCross.Massachusetts.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Michigan
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Michigan'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Michigan.04-17-2020_12:32:29
+        New Download: AmericanRedCross.Michigan.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Minnesota
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Minnesota'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Minnesota.04-17-2020_12:32:29
+        New Download: AmericanRedCross.Minnesota.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Mississippi
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Mississippi'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Mississippi.04-17-2020_12:32:29
+        New Download: AmericanRedCross.Mississippi.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Missouri
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Missouri'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Missouri.04-17-2020_12:32:30
+        New Download: AmericanRedCross.Missouri.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Montana
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Montana'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Montana.04-17-2020_12:32:30
+        New Download: AmericanRedCross.Montana.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Nebraska
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Nebraska'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Nebraska.04-17-2020_12:32:30
+        New Download: AmericanRedCross.Nebraska.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Nevada
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Nevada'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Nevada.04-17-2020_12:32:31
+        New Download: AmericanRedCross.Nevada.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/New Hampshire
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='New Hampshire'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.New Hampshire.04-17-2020_15:58:17
+        New Download: AmericanRedCross.New Hampshire.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/New Jersey
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='New Jersey'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.New Jersey.04-17-2020_15:58:17
+        New Download: AmericanRedCross.New Jersey.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/New Mexico
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='New Mexico'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.New Mexico.04-17-2020_15:58:17
+        New Download: AmericanRedCross.New Mexico.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/New York
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='New York'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.New York.04-17-2020_15:58:18
+        New Download: AmericanRedCross.New York.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/North Carolina
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='North Carolina'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.North Carolina.04-17-2020_15:58:18
+        New Download: AmericanRedCross.North Carolina.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/North Dakota
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='North Dakota'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.North Dakota.04-17-2020_15:58:18
+        New Download: AmericanRedCross.North Dakota.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Ohio
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Ohio'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Ohio.04-17-2020_12:32:33
+        New Download: AmericanRedCross.Ohio.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Oklahoma
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Oklahoma'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Oklahoma.04-17-2020_12:32:33
+        New Download: AmericanRedCross.Oklahoma.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Oregon
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Oregon'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Oregon.04-17-2020_12:32:34
+        New Download: AmericanRedCross.Oregon.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Pennsylvania
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Pennsylvania'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Pennsylvania.04-17-2020_12:32:34
+        New Download: AmericanRedCross.Pennsylvania.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Puerto Rico
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Puerto Rico'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Puerto Rico.04-17-2020_15:58:19
+        New Download: AmericanRedCross.Puerto Rico.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Rhode Island
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Rhode Island'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Rhode Island.04-17-2020_15:58:20
+        New Download: AmericanRedCross.Rhode Island.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/South Carolina
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='South Carolina'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.South Carolina.04-17-2020_15:58:20
+        New Download: AmericanRedCross.South Carolina.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/South Dakota
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='South Dakota'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.South Dakota.04-17-2020_15:58:20
+        New Download: AmericanRedCross.South Dakota.04-20-2020_00:00:07
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Tennessee
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Tennessee'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Tennessee.04-17-2020_12:32:36
+        New Download: AmericanRedCross.Tennessee.04-20-2020_00:00:08
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Texas
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Texas'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Texas.04-17-2020_12:32:36
+        New Download: AmericanRedCross.Texas.04-20-2020_00:00:08
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Utah
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Utah'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Utah.04-17-2020_12:32:37
+        New Download: AmericanRedCross.Utah.04-20-2020_00:00:08
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Vermont
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Vermont'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Vermont.04-17-2020_12:32:37
+        New Download: AmericanRedCross.Vermont.04-20-2020_00:00:08
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Virginia
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Virginia'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Virginia.04-17-2020_12:32:37
+        New Download: AmericanRedCross.Virginia.04-20-2020_00:00:08
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Washington
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Washington'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Washington.04-17-2020_12:32:38
+        New Download: AmericanRedCross.Washington.04-20-2020_00:00:08
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/West Virginia
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='West Virginia'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.West Virginia.04-17-2020_15:58:22
+        New Download: AmericanRedCross.West Virginia.04-20-2020_00:00:08
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Wisconsin
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Wisconsin'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Wisconsin.04-17-2020_12:32:38
+        New Download: AmericanRedCross.Wisconsin.04-20-2020_00:00:08
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Wyoming
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Wyoming'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Last Update : AmericanRedCross.Wyoming.04-17-2020_12:32:39
+        New Download: AmericanRedCross.Wyoming.04-20-2020_00:00:08
+        Files are not the same. Record updates.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+ --Process Done -- 
