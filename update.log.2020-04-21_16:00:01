@@ -1,3 +1,22 @@
 /Users/cyhsu/dev/virus/dataset/cases/Texas/Texas.DSHS.04-21-2020_11:00:05
 File "Johns_Hopkins.04-21-2020_11:00:06" are the same with the older one. Keep the oldest one.
 /Users/cyhsu/dev/virus/dataset/icu/icu.04-21-2020_11:00:07
+[master de2c4b0] Update on  04-21-2020_11:00:23
+ Committer: Chuan-Yuan Hsu <cyhsu@cyhsu.tamu.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 442 insertions(+)
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-04-21_16:00:10
+ create mode 100644 update.log.2020-04-21_16:00:01
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
