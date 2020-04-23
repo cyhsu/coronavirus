@@ -6,3 +6,23 @@ csse_covid_19_data/csse_covid_19_time_series/
 sent 6505 bytes  received 26 bytes  13062.00 bytes/sec
 total size is 75106498  speedup is 11500.00
 /Users/cyhsu/dev/virus/dataset/icu/icu.04-23-2020_17:00:07
+[master c2ced3a] Update on  04-23-2020_17:00:21
+ Committer: Chuan-Yuan Hsu <cyhsu@cyhsu.tamu.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 443 insertions(+), 16 deletions(-)
+ rewrite README.md (66%)
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-04-23_22:00:08
+ create mode 100644 logs/update.log.2020-04-23_22:00:01
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
