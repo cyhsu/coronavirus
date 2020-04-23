@@ -1,1 +1,4 @@
-/Users/cyhsu/dev/CSSEGISandData/COVID-19/README.md
+### COVID-19 Dataset From CSSE GitHub  
+
+Original Source: https://github.com/CSSEGISandData/COVID-19
+Update Frequency: Daily.
