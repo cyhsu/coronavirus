@@ -1,0 +1,9 @@
+/Users/cyhsu/dev/virus/dataset/cases/Texas/Texas.DSHS.04-24-2020_21:00:05
+File "Johns_Hopkins.04-24-2020_21:00:06" are the same with the older one. Keep the oldest one.
+building file list ... done
+who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/
+who_covid_19_situation_reports/who_covid_19_sit_rep_pdfs/20200308-sitrep-48-covid-19.pdf
+
+sent 863610 bytes  received 48 bytes  1727316.00 bytes/sec
+total size is 75467356  speedup is 87.38
+/Users/cyhsu/dev/virus/dataset/icu/icu.04-24-2020_21:00:07
