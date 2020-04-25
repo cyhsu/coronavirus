@@ -1,0 +1,18 @@
+/Users/cyhsu/dev/virus/dataset/cases/Texas/Texas.DSHS.04-25-2020_02:00:00
+Johns_Hopkins.04-24-2020_17:00:06 Johns_Hopkins.04-25-2020_02:00:01
+Files are not the same. Record updates.
+building file list ... done
+csse_covid_19_data/csse_covid_19_daily_reports/
+csse_covid_19_data/csse_covid_19_daily_reports/04-24-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports_us/
+csse_covid_19_data/csse_covid_19_daily_reports_us/04-24-2020.csv
+csse_covid_19_data/csse_covid_19_time_series/
+csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv
+csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_US.csv
+csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
+
+sent 2507794 bytes  received 192 bytes  5015972.00 bytes/sec
+total size is 75822848  speedup is 30.23
+/Users/cyhsu/dev/virus/dataset/icu/icu.04-25-2020_02:00:02
