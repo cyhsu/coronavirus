@@ -7,3 +7,27 @@ building file list ... done
 sent 6879 bytes  received 20 bytes  13798.00 bytes/sec
 total size is 77960017  speedup is 11300.19
 /Users/cyhsu/dev/virus/dataset/icu/icu.05-01-2020_00:00:11
+[master 7358713] Update on  05-01-2020_00:00:25
+ Committer: cyhsu <cyhsu@cyhsu.tamu.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 8 files changed, 1472 insertions(+)
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-05-01_05:00:12
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Utah/AmericanRedCross.Utah.05-01-2020_00:00:23
+ create mode 100644 dataset/cases/texas/Excel/05-01-2020/COVID-19CumulativeTestTotalsbyCounty.xlsx
+ create mode 100644 dataset/cases/texas/Excel/05-01-2020/TexasCOVID19CaseCountData.xlsx
+ create mode 100644 dataset/cases/texas/Excel/05-01-2020/TexasCOVID19DailyCountyCaseCountData.xlsx
+ create mode 100644 dataset/cases/texas/Excel/05-01-2020/TexasCOVID19DailyCountyFatalityCountData.xlsx
+ create mode 100644 logs/update.log.2020-05-01_05:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
