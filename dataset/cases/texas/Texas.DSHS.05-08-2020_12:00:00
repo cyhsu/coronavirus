@@ -1,0 +1,4582 @@
+
+
+...New Update is processing...
+...Date:2020-05-08_16:41:03...
+
+{
+   "type": "FeatureCollection",
+   "features": [
+      {
+         "type": "Feature",
+         "id": 1,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 1,
+            "OBJECTID": 1,
+            "County": "Anderson",
+            "FIPS": "48001",
+            "COUNTYFP10": "001",
+            "Shape_Leng": 373739.497368,
+            "Count_": 41,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2780384736.81836,
+            "Shape__Length": 373739.497367559,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 2,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 2,
+            "OBJECTID": 2,
+            "County": "Andrews",
+            "FIPS": "48003",
+            "COUNTYFP10": "003",
+            "Shape_Leng": 256968.659368,
+            "Count_": 21,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3872439726.24023,
+            "Shape__Length": 256968.659368344,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 3,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 3,
+            "OBJECTID": 3,
+            "County": "Angelina",
+            "FIPS": "48005",
+            "COUNTYFP10": "005",
+            "Shape_Leng": 345655.06057,
+            "Count_": 100,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2230054584.05176,
+            "Shape__Length": 345655.060569877,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 4,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 4,
+            "OBJECTID": 4,
+            "County": "Aransas",
+            "FIPS": "48007",
+            "COUNTYFP10": "007",
+            "Shape_Leng": 200990.380171,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1365744002.70508,
+            "Shape__Length": 200990.380171273,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 5,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 5,
+            "OBJECTID": 5,
+            "County": "Archer",
+            "FIPS": "48009",
+            "COUNTYFP10": "009",
+            "Shape_Leng": 195603.033313,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2390627825.69238,
+            "Shape__Length": 195603.033312703,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 6,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 6,
+            "OBJECTID": 6,
+            "County": "Armstrong",
+            "FIPS": "48011",
+            "COUNTYFP10": "011",
+            "Shape_Leng": 194672.608506,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2366621850.06348,
+            "Shape__Length": 194672.608506427,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 7,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 7,
+            "OBJECTID": 7,
+            "County": "Atascosa",
+            "FIPS": "48013",
+            "COUNTYFP10": "013",
+            "Shape_Leng": 235039.8664,
+            "Count_": 22,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3155525557.14063,
+            "Shape__Length": 235039.8663997,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 8,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 8,
+            "OBJECTID": 8,
+            "County": "Austin",
+            "FIPS": "48015",
+            "COUNTYFP10": "015",
+            "Shape_Leng": 258336.897316,
+            "Count_": 14,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1693781284.64355,
+            "Shape__Length": 258336.897316496,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 9,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 9,
+            "OBJECTID": 9,
+            "County": "Bailey",
+            "FIPS": "48017",
+            "COUNTYFP10": "017",
+            "Shape_Leng": 187563.01178,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2139161822.14648,
+            "Shape__Length": 187563.011779923,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 10,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 10,
+            "OBJECTID": 10,
+            "County": "Bandera",
+            "FIPS": "48019",
+            "COUNTYFP10": "019",
+            "Shape_Leng": 212286.160901,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2058526704.39258,
+            "Shape__Length": 212286.160900665,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 11,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 11,
+            "OBJECTID": 11,
+            "County": "Bastrop",
+            "FIPS": "48021",
+            "COUNTYFP10": "021",
+            "Shape_Leng": 189851.656261,
+            "Count_": 106,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2310549338.91797,
+            "Shape__Length": 189851.656260706,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 12,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 12,
+            "OBJECTID": 12,
+            "County": "Baylor",
+            "FIPS": "48023",
+            "COUNTYFP10": "023",
+            "Shape_Leng": 193025.336441,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2327732966.39746,
+            "Shape__Length": 193025.336440584,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 13,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 13,
+            "OBJECTID": 13,
+            "County": "Bee",
+            "FIPS": "48025",
+            "COUNTYFP10": "025",
+            "Shape_Leng": 233005.777666,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2275937126.40137,
+            "Shape__Length": 233005.777666064,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 14,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 14,
+            "OBJECTID": 14,
+            "County": "Bell",
+            "FIPS": "48027",
+            "COUNTYFP10": "027",
+            "Shape_Leng": 220319.084359,
+            "Count_": 218,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2805547848.21777,
+            "Shape__Length": 220319.084359339,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 15,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 15,
+            "OBJECTID": 15,
+            "County": "Bexar",
+            "FIPS": "48029",
+            "COUNTYFP10": "029",
+            "Shape_Leng": 284580.805649,
+            "Count_": 1805,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3242677268.24707,
+            "Shape__Length": 284580.80564923,
+            "Deaths": 54
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 16,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 16,
+            "OBJECTID": 16,
+            "County": "Blanco",
+            "FIPS": "48031",
+            "COUNTYFP10": "031",
+            "Shape_Leng": 175706.904108,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1840476293.8877,
+            "Shape__Length": 175706.904107902,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 17,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 17,
+            "OBJECTID": 17,
+            "County": "Borden",
+            "FIPS": "48033",
+            "COUNTYFP10": "033",
+            "Shape_Leng": 193551.664564,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2338219512.71387,
+            "Shape__Length": 193551.664564244,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 18,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 18,
+            "OBJECTID": 18,
+            "County": "Bosque",
+            "FIPS": "48035",
+            "COUNTYFP10": "035",
+            "Shape_Leng": 257776.306451,
+            "Count_": 5,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2585841801.09277,
+            "Shape__Length": 257776.306450916,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 19,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 19,
+            "OBJECTID": 19,
+            "County": "Bowie",
+            "FIPS": "48037",
+            "COUNTYFP10": "037",
+            "Shape_Leng": 409692.161415,
+            "Count_": 76,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2383733441.24316,
+            "Shape__Length": 409692.161414838,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 20,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 20,
+            "OBJECTID": 20,
+            "County": "Brazoria",
+            "FIPS": "48039",
+            "COUNTYFP10": "039",
+            "Shape_Leng": 327857.358444,
+            "Count_": 613,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 4154075845.20117,
+            "Shape__Length": 327857.358444374,
+            "Deaths": 8
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 21,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 21,
+            "OBJECTID": 21,
+            "County": "Brazos",
+            "FIPS": "48041",
+            "COUNTYFP10": "041",
+            "Shape_Leng": 293876.576279,
+            "Count_": 243,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1524963676.85352,
+            "Shape__Length": 293876.576279487,
+            "Deaths": 17
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 22,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 22,
+            "OBJECTID": 22,
+            "County": "Brewster",
+            "FIPS": "48043",
+            "COUNTYFP10": "043",
+            "Shape_Leng": 630767.923856,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 15980721293.3203,
+            "Shape__Length": 630767.923856167,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 23,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 23,
+            "OBJECTID": 23,
+            "County": "Briscoe",
+            "FIPS": "48045",
+            "COUNTYFP10": "045",
+            "Shape_Leng": 193120.133365,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2332702662.8418,
+            "Shape__Length": 193120.133365319,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 24,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 24,
+            "OBJECTID": 24,
+            "County": "Brooks",
+            "FIPS": "48047",
+            "COUNTYFP10": "047",
+            "Shape_Leng": 215250.147006,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2446789969.26953,
+            "Shape__Length": 215250.147006019,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 25,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 25,
+            "OBJECTID": 25,
+            "County": "Brown",
+            "FIPS": "48049",
+            "COUNTYFP10": "049",
+            "Shape_Leng": 216486.912,
+            "Count_": 38,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2468153311.52344,
+            "Shape__Length": 216486.91199976,
+            "Deaths": 6
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 26,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 26,
+            "OBJECTID": 26,
+            "County": "Burleson",
+            "FIPS": "48051",
+            "COUNTYFP10": "051",
+            "Shape_Leng": 258633.911328,
+            "Count_": 15,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1745800669.12598,
+            "Shape__Length": 258633.911328332,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 27,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 27,
+            "OBJECTID": 27,
+            "County": "Burnet",
+            "FIPS": "48053",
+            "COUNTYFP10": "053",
+            "Shape_Leng": 254170.433177,
+            "Count_": 25,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2634005364.29395,
+            "Shape__Length": 254170.433177283,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 28,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 28,
+            "OBJECTID": 28,
+            "County": "Caldwell",
+            "FIPS": "48055",
+            "COUNTYFP10": "055",
+            "Shape_Leng": 193988.157768,
+            "Count_": 25,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1411993026.99902,
+            "Shape__Length": 193988.157768136,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 29,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 29,
+            "OBJECTID": 29,
+            "County": "Calhoun",
+            "FIPS": "48057",
+            "COUNTYFP10": "057",
+            "Shape_Leng": 261517.842814,
+            "Count_": 36,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2669667075.06445,
+            "Shape__Length": 261517.84281449,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 30,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 30,
+            "OBJECTID": 30,
+            "County": "Callahan",
+            "FIPS": "48059",
+            "COUNTYFP10": "059",
+            "Shape_Leng": 192810.627099,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2325074434.60547,
+            "Shape__Length": 192810.627098628,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 31,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 31,
+            "OBJECTID": 31,
+            "County": "Cameron",
+            "FIPS": "48061",
+            "COUNTYFP10": "061",
+            "Shape_Leng": 364725.139636,
+            "Count_": 483,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3317818844.47363,
+            "Shape__Length": 364725.139636359,
+            "Deaths": 20
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 32,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 32,
+            "OBJECTID": 32,
+            "County": "Camp",
+            "FIPS": "48063",
+            "COUNTYFP10": "063",
+            "Shape_Leng": 140906.959722,
+            "Count_": 7,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 524592213.975586,
+            "Shape__Length": 140906.959721841,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 33,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 33,
+            "OBJECTID": 33,
+            "County": "Carson",
+            "FIPS": "48065",
+            "COUNTYFP10": "065",
+            "Shape_Leng": 195725.590557,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2395790208.85059,
+            "Shape__Length": 195725.590556532,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 34,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 34,
+            "OBJECTID": 34,
+            "County": "Cass",
+            "FIPS": "48067",
+            "COUNTYFP10": "067",
+            "Shape_Leng": 274666.606989,
+            "Count_": 17,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2479099879.86426,
+            "Shape__Length": 274666.606989008,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 35,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 35,
+            "OBJECTID": 35,
+            "County": "Castro",
+            "FIPS": "48069",
+            "COUNTYFP10": "069",
+            "Shape_Leng": 193234.768623,
+            "Count_": 22,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2326805098.2041,
+            "Shape__Length": 193234.768622815,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 36,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 36,
+            "OBJECTID": 36,
+            "County": "Chambers",
+            "FIPS": "48071",
+            "COUNTYFP10": "071",
+            "Shape_Leng": 266924.12568,
+            "Count_": 47,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2248424730.20898,
+            "Shape__Length": 266924.125680059,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 37,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 37,
+            "OBJECTID": 37,
+            "County": "Cherokee",
+            "FIPS": "48073",
+            "COUNTYFP10": "073",
+            "Shape_Leng": 373914.308059,
+            "Count_": 18,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2739640811.21289,
+            "Shape__Length": 373914.308058731,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 38,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 38,
+            "OBJECTID": 38,
+            "County": "Childress",
+            "FIPS": "48075",
+            "COUNTYFP10": "075",
+            "Shape_Leng": 173316.345537,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1846645426.04492,
+            "Shape__Length": 173316.345537033,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 39,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 39,
+            "OBJECTID": 39,
+            "County": "Clay",
+            "FIPS": "48077",
+            "COUNTYFP10": "077",
+            "Shape_Leng": 253777.589035,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2885653271.6543,
+            "Shape__Length": 253777.589034578,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 40,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 40,
+            "OBJECTID": 40,
+            "County": "Cochran",
+            "FIPS": "48079",
+            "COUNTYFP10": "079",
+            "Shape_Leng": 179646.121023,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2002637497.01953,
+            "Shape__Length": 179646.121023311,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 41,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 41,
+            "OBJECTID": 41,
+            "County": "Coke",
+            "FIPS": "48081",
+            "COUNTYFP10": "081",
+            "Shape_Leng": 197362.007412,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2393535246.75684,
+            "Shape__Length": 197362.007411697,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 42,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 42,
+            "OBJECTID": 42,
+            "County": "Coleman",
+            "FIPS": "48083",
+            "COUNTYFP10": "083",
+            "Shape_Leng": 278754.589245,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3305047513.87305,
+            "Shape__Length": 278754.589245134,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 43,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 43,
+            "OBJECTID": 43,
+            "County": "Collin",
+            "FIPS": "48085",
+            "COUNTYFP10": "085",
+            "Shape_Leng": 194846.621146,
+            "Count_": 857,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2287789798.22852,
+            "Shape__Length": 194846.621146228,
+            "Deaths": 24
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 44,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 44,
+            "OBJECTID": 44,
+            "County": "Collingsworth",
+            "FIPS": "48087",
+            "COUNTYFP10": "087",
+            "Shape_Leng": 195288.726949,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2380848844.94141,
+            "Shape__Length": 195288.726948736,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 45,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 45,
+            "OBJECTID": 45,
+            "County": "Colorado",
+            "FIPS": "48089",
+            "COUNTYFP10": "089",
+            "Shape_Leng": 245840.082665,
+            "Count_": 13,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2513186037.14844,
+            "Shape__Length": 245840.082665265,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 46,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 46,
+            "OBJECTID": 46,
+            "County": "Comal",
+            "FIPS": "48091",
+            "COUNTYFP10": "091",
+            "Shape_Leng": 199191.621457,
+            "Count_": 65,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1483554908.95508,
+            "Shape__Length": 199191.62145674,
+            "Deaths": 6
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 47,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 47,
+            "OBJECTID": 47,
+            "County": "Comanche",
+            "FIPS": "48093",
+            "COUNTYFP10": "093",
+            "Shape_Leng": 212117.026793,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2444387595.74219,
+            "Shape__Length": 212117.026793243,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 48,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 48,
+            "OBJECTID": 48,
+            "County": "Concho",
+            "FIPS": "48095",
+            "COUNTYFP10": "095",
+            "Shape_Leng": 222085.599419,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2562714283.31152,
+            "Shape__Length": 222085.599418793,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 49,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 49,
+            "OBJECTID": 49,
+            "County": "Cooke",
+            "FIPS": "48097",
+            "COUNTYFP10": "097",
+            "Shape_Leng": 298869.044824,
+            "Count_": 11,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2321017545.66895,
+            "Shape__Length": 298869.044823636,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 50,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 50,
+            "OBJECTID": 50,
+            "County": "Coryell",
+            "FIPS": "48099",
+            "COUNTYFP10": "099",
+            "Shape_Leng": 209256.405301,
+            "Count_": 205,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2725358424.40625,
+            "Shape__Length": 209256.405301441,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 51,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 51,
+            "OBJECTID": 51,
+            "County": "Cottle",
+            "FIPS": "48101",
+            "COUNTYFP10": "101",
+            "Shape_Leng": 204857.892796,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2330845473.42773,
+            "Shape__Length": 204857.892796161,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 52,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 52,
+            "OBJECTID": 52,
+            "County": "Crane",
+            "FIPS": "48103",
+            "COUNTYFP10": "103",
+            "Shape_Leng": 250854.497209,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2026377397.56445,
+            "Shape__Length": 250854.497208768,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 53,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 53,
+            "OBJECTID": 53,
+            "County": "Crockett",
+            "FIPS": "48105",
+            "COUNTYFP10": "105",
+            "Shape_Leng": 514712.683725,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 7240825161.19629,
+            "Shape__Length": 514712.683725286,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 54,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 54,
+            "OBJECTID": 54,
+            "County": "Crosby",
+            "FIPS": "48107",
+            "COUNTYFP10": "107",
+            "Shape_Leng": 193054.292364,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2329340007.44141,
+            "Shape__Length": 193054.292364209,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 55,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 55,
+            "OBJECTID": 55,
+            "County": "Culberson",
+            "FIPS": "48109",
+            "COUNTYFP10": "109",
+            "Shape_Leng": 424364.96469,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 9833977860.0625,
+            "Shape__Length": 424364.964690291,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 56,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 56,
+            "OBJECTID": 56,
+            "County": "Dallam",
+            "FIPS": "48111",
+            "COUNTYFP10": "111",
+            "Shape_Leng": 257130.374338,
+            "Count_": 11,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3912180324.01953,
+            "Shape__Length": 257130.374338242,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 57,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 57,
+            "OBJECTID": 57,
+            "County": "Dallas",
+            "FIPS": "48113",
+            "COUNTYFP10": "113",
+            "Shape_Leng": 193655.088591,
+            "Count_": 5120,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2344880381.69238,
+            "Shape__Length": 193655.088591447,
+            "Deaths": 125
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 58,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 58,
+            "OBJECTID": 58,
+            "County": "Dawson",
+            "FIPS": "48115",
+            "COUNTYFP10": "115",
+            "Shape_Leng": 193048.90877,
+            "Count_": 30,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2328092766.41455,
+            "Shape__Length": 193048.908769978,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 59,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 59,
+            "OBJECTID": 59,
+            "County": "Deaf Smith",
+            "FIPS": "48117",
+            "COUNTYFP10": "117",
+            "Shape_Leng": 256533.314625,
+            "Count_": 46,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3880494751.83301,
+            "Shape__Length": 256533.314625117,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 60,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 60,
+            "OBJECTID": 60,
+            "County": "Delta",
+            "FIPS": "48119",
+            "COUNTYFP10": "119",
+            "Shape_Leng": 237027.568662,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 717752865.430664,
+            "Shape__Length": 237027.56866152,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 61,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 61,
+            "OBJECTID": 61,
+            "County": "Denton",
+            "FIPS": "48121",
+            "COUNTYFP10": "121",
+            "Shape_Leng": 198809.704259,
+            "Count_": 872,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2460499838.23926,
+            "Shape__Length": 198809.704258658,
+            "Deaths": 23
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 62,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 62,
+            "OBJECTID": 62,
+            "County": "De Witt",
+            "FIPS": "48123",
+            "COUNTYFP10": "123",
+            "Shape_Leng": 212318.175219,
+            "Count_": 15,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2351526541.93457,
+            "Shape__Length": 212318.175219353,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 63,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 63,
+            "OBJECTID": 63,
+            "County": "Dickens",
+            "FIPS": "48125",
+            "COUNTYFP10": "125",
+            "Shape_Leng": 193589.976193,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2338458896.125,
+            "Shape__Length": 193589.976193404,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 64,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 64,
+            "OBJECTID": 64,
+            "County": "Dimmit",
+            "FIPS": "48127",
+            "COUNTYFP10": "127",
+            "Shape_Leng": 239114.60518,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3450092714.08496,
+            "Shape__Length": 239114.60517988,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 65,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 65,
+            "OBJECTID": 65,
+            "County": "Donley",
+            "FIPS": "48129",
+            "COUNTYFP10": "129",
+            "Shape_Leng": 196724.063611,
+            "Count_": 25,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2416396645.79492,
+            "Shape__Length": 196724.063611096,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 66,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 66,
+            "OBJECTID": 66,
+            "County": "Duval",
+            "FIPS": "48131",
+            "COUNTYFP10": "131",
+            "Shape_Leng": 293096.458698,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 4648794458.72852,
+            "Shape__Length": 293096.458698267,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 67,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 67,
+            "OBJECTID": 67,
+            "County": "Eastland",
+            "FIPS": "48133",
+            "COUNTYFP10": "133",
+            "Shape_Leng": 199101.124659,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2404189935.92871,
+            "Shape__Length": 199101.124658637,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 68,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 68,
+            "OBJECTID": 68,
+            "County": "Ector",
+            "FIPS": "48135",
+            "COUNTYFP10": "135",
+            "Shape_Leng": 192916.945362,
+            "Count_": 94,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2325884701.14111,
+            "Shape__Length": 192916.945361807,
+            "Deaths": 4
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 69,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 69,
+            "OBJECTID": 69,
+            "County": "Edwards",
+            "FIPS": "48137",
+            "COUNTYFP10": "137",
+            "Shape_Leng": 343497.339922,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 5469905328.1123,
+            "Shape__Length": 343497.339921689,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 70,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 70,
+            "OBJECTID": 70,
+            "County": "Ellis",
+            "FIPS": "48139",
+            "COUNTYFP10": "139",
+            "Shape_Leng": 224794.812126,
+            "Count_": 193,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2455391007.70605,
+            "Shape__Length": 224794.812125863,
+            "Deaths": 11
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 71,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 71,
+            "OBJECTID": 71,
+            "County": "El Paso",
+            "FIPS": "48141",
+            "COUNTYFP10": "141",
+            "Shape_Leng": 248061.353037,
+            "Count_": 1190,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2617755045.979,
+            "Shape__Length": 248061.353037442,
+            "Deaths": 30
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 72,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 72,
+            "OBJECTID": 72,
+            "County": "Erath",
+            "FIPS": "48143",
+            "COUNTYFP10": "143",
+            "Shape_Leng": 216024.717764,
+            "Count_": 14,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2811378055.58301,
+            "Shape__Length": 216024.717764494,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 73,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 73,
+            "OBJECTID": 73,
+            "County": "Falls",
+            "FIPS": "48145",
+            "COUNTYFP10": "145",
+            "Shape_Leng": 182263.145861,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1995713609.8457,
+            "Shape__Length": 182263.145860665,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 74,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 74,
+            "OBJECTID": 74,
+            "County": "Fannin",
+            "FIPS": "48147",
+            "COUNTYFP10": "147",
+            "Shape_Leng": 233225.218711,
+            "Count_": 23,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2322011851.00195,
+            "Shape__Length": 233225.21871111,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 75,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 75,
+            "OBJECTID": 75,
+            "County": "Fayette",
+            "FIPS": "48149",
+            "COUNTYFP10": "149",
+            "Shape_Leng": 208378.017996,
+            "Count_": 21,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2476781722.29883,
+            "Shape__Length": 208378.017995886,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 76,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 76,
+            "OBJECTID": 76,
+            "County": "Fisher",
+            "FIPS": "48151",
+            "COUNTYFP10": "151",
+            "Shape_Leng": 192913.441204,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2327124508.80176,
+            "Shape__Length": 192913.441204056,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 77,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 77,
+            "OBJECTID": 77,
+            "County": "Floyd",
+            "FIPS": "48153",
+            "COUNTYFP10": "153",
+            "Shape_Leng": 202937.484945,
+            "Count_": 4,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2565834285.86816,
+            "Shape__Length": 202937.484944568,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 78,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 78,
+            "OBJECTID": 78,
+            "County": "Foard",
+            "FIPS": "48155",
+            "COUNTYFP10": "155",
+            "Shape_Leng": 240824.324691,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1829172429.57129,
+            "Shape__Length": 240824.32469066,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 79,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 79,
+            "OBJECTID": 79,
+            "County": "Fort Bend",
+            "FIPS": "48157",
+            "COUNTYFP10": "157",
+            "Shape_Leng": 259597.08162,
+            "Count_": 1332,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2285372025.93262,
+            "Shape__Length": 259597.081619715,
+            "Deaths": 33
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 80,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 80,
+            "OBJECTID": 80,
+            "County": "Franklin",
+            "FIPS": "48159",
+            "COUNTYFP10": "159",
+            "Shape_Leng": 148248.25728,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 761036338.663086,
+            "Shape__Length": 148248.257280381,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 81,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 81,
+            "OBJECTID": 81,
+            "County": "Freestone",
+            "FIPS": "48161",
+            "COUNTYFP10": "161",
+            "Shape_Leng": 253164.806437,
+            "Count_": 7,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2300553189.44922,
+            "Shape__Length": 253164.806436739,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 82,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 82,
+            "OBJECTID": 82,
+            "County": "Frio",
+            "FIPS": "48163",
+            "COUNTYFP10": "163",
+            "Shape_Leng": 217760.778532,
+            "Count_": 25,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2930553651.14746,
+            "Shape__Length": 217760.778532169,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 83,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 83,
+            "OBJECTID": 83,
+            "County": "Gaines",
+            "FIPS": "48165",
+            "COUNTYFP10": "165",
+            "Shape_Leng": 257573.811758,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3878380227.04053,
+            "Shape__Length": 257573.811757689,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 84,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 84,
+            "OBJECTID": 84,
+            "County": "Galveston",
+            "FIPS": "48167",
+            "COUNTYFP10": "167",
+            "Shape_Leng": 297830.516928,
+            "Count_": 672,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2255976023.17285,
+            "Shape__Length": 297830.516928396,
+            "Deaths": 28
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 85,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 85,
+            "OBJECTID": 85,
+            "County": "Garza",
+            "FIPS": "48169",
+            "COUNTYFP10": "169",
+            "Shape_Leng": 191893.986402,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2313835538.04785,
+            "Shape__Length": 191893.986402467,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 86,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 86,
+            "OBJECTID": 86,
+            "County": "Gillespie",
+            "FIPS": "48171",
+            "COUNTYFP10": "171",
+            "Shape_Leng": 217226.53194,
+            "Count_": 4,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2738799953.00586,
+            "Shape__Length": 217226.531940236,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 87,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 87,
+            "OBJECTID": 87,
+            "County": "Glasscock",
+            "FIPS": "48173",
+            "COUNTYFP10": "173",
+            "Shape_Leng": 192854.385128,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2324122891.48584,
+            "Shape__Length": 192854.385127764,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 88,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 88,
+            "OBJECTID": 88,
+            "County": "Goliad",
+            "FIPS": "48175",
+            "COUNTYFP10": "175",
+            "Shape_Leng": 225891.218003,
+            "Count_": 7,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2220851892.62012,
+            "Shape__Length": 225891.218003215,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 89,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 89,
+            "OBJECTID": 89,
+            "County": "Gonzales",
+            "FIPS": "48177",
+            "COUNTYFP10": "177",
+            "Shape_Leng": 219769.160447,
+            "Count_": 31,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2761881351.44336,
+            "Shape__Length": 219769.160446902,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 90,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 90,
+            "OBJECTID": 90,
+            "County": "Gray",
+            "FIPS": "48179",
+            "COUNTYFP10": "179",
+            "Shape_Leng": 196341.959094,
+            "Count_": 73,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2409327228.02637,
+            "Shape__Length": 196341.959094146,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 91,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 91,
+            "OBJECTID": 91,
+            "County": "Grayson",
+            "FIPS": "48181",
+            "COUNTYFP10": "181",
+            "Shape_Leng": 243452.478098,
+            "Count_": 78,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2529546374.77441,
+            "Shape__Length": 243452.478098151,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 92,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 92,
+            "OBJECTID": 92,
+            "County": "Gregg",
+            "FIPS": "48183",
+            "COUNTYFP10": "183",
+            "Shape_Leng": 137891.579868,
+            "Count_": 117,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 711498499.165039,
+            "Shape__Length": 137891.579868432,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 93,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 93,
+            "OBJECTID": 93,
+            "County": "Grimes",
+            "FIPS": "48185",
+            "COUNTYFP10": "185",
+            "Shape_Leng": 253811.476555,
+            "Count_": 37,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2067657981.11816,
+            "Shape__Length": 253811.476554859,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 94,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 94,
+            "OBJECTID": 94,
+            "County": "Guadalupe",
+            "FIPS": "48187",
+            "COUNTYFP10": "187",
+            "Shape_Leng": 248179.87085,
+            "Count_": 92,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1844991590.71387,
+            "Shape__Length": 248179.870849817,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 95,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 95,
+            "OBJECTID": 95,
+            "County": "Hale",
+            "FIPS": "48189",
+            "COUNTYFP10": "189",
+            "Shape_Leng": 204183.80929,
+            "Count_": 37,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2597508207.15234,
+            "Shape__Length": 204183.809289726,
+            "Deaths": 4
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 96,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 96,
+            "OBJECTID": 96,
+            "County": "Hall",
+            "FIPS": "48191",
+            "COUNTYFP10": "191",
+            "Shape_Leng": 193495.595719,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2339238669.375,
+            "Shape__Length": 193495.595718805,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 97,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 97,
+            "OBJECTID": 97,
+            "County": "Hamilton",
+            "FIPS": "48193",
+            "COUNTYFP10": "193",
+            "Shape_Leng": 200530.466053,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2157155265.4668,
+            "Shape__Length": 200530.466053027,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 98,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 98,
+            "OBJECTID": 98,
+            "County": "Hansford",
+            "FIPS": "48195",
+            "COUNTYFP10": "195",
+            "Shape_Leng": 195614.381978,
+            "Count_": 12,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2392144294.50977,
+            "Shape__Length": 195614.381978444,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 99,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 99,
+            "OBJECTID": 99,
+            "County": "Hardeman",
+            "FIPS": "48197",
+            "COUNTYFP10": "197",
+            "Shape_Leng": 200835.673829,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1802225730.63086,
+            "Shape__Length": 200835.673828656,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 100,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 100,
+            "OBJECTID": 100,
+            "County": "Hardin",
+            "FIPS": "48199",
+            "COUNTYFP10": "199",
+            "Shape_Leng": 275195.044312,
+            "Count_": 113,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2315384507.15234,
+            "Shape__Length": 275195.044311576,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 101,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 101,
+            "OBJECTID": 101,
+            "County": "Harris",
+            "FIPS": "48201",
+            "COUNTYFP10": "201",
+            "Shape_Leng": 399771.147792,
+            "Count_": 7377,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 4586872205.37891,
+            "Shape__Length": 399771.147791633,
+            "Deaths": 154
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 102,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 102,
+            "OBJECTID": 102,
+            "County": "Harrison",
+            "FIPS": "48203",
+            "COUNTYFP10": "203",
+            "Shape_Leng": 260338.97755,
+            "Count_": 180,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2362866055.19336,
+            "Shape__Length": 260338.977550242,
+            "Deaths": 6
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 103,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 103,
+            "OBJECTID": 103,
+            "County": "Hartley",
+            "FIPS": "48205",
+            "COUNTYFP10": "205",
+            "Shape_Leng": 254477.692446,
+            "Count_": 7,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3797900153.1499,
+            "Shape__Length": 254477.692445619,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 104,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 104,
+            "OBJECTID": 104,
+            "County": "Haskell",
+            "FIPS": "48207",
+            "COUNTYFP10": "207",
+            "Shape_Leng": 193856.190143,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2350141136.56152,
+            "Shape__Length": 193856.190142863,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 105,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 105,
+            "OBJECTID": 105,
+            "County": "Hays",
+            "FIPS": "48209",
+            "COUNTYFP10": "209",
+            "Shape_Leng": 186682.268552,
+            "Count_": 195,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1754287490.88574,
+            "Shape__Length": 186682.268551927,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 106,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 106,
+            "OBJECTID": 106,
+            "County": "Hemphill",
+            "FIPS": "48211",
+            "COUNTYFP10": "211",
+            "Shape_Leng": 194731.299017,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2367588728.40234,
+            "Shape__Length": 194731.299016867,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 107,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 107,
+            "OBJECTID": 107,
+            "County": "Henderson",
+            "FIPS": "48213",
+            "COUNTYFP10": "213",
+            "Shape_Leng": 305004.574074,
+            "Count_": 36,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2446369275.76563,
+            "Shape__Length": 305004.574074355,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 108,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 108,
+            "OBJECTID": 108,
+            "County": "Hidalgo",
+            "FIPS": "48215",
+            "COUNTYFP10": "215",
+            "Shape_Leng": 346220.869021,
+            "Count_": 368,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 4111398016.74316,
+            "Shape__Length": 346220.869020551,
+            "Deaths": 7
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 109,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 109,
+            "OBJECTID": 109,
+            "County": "Hill",
+            "FIPS": "48217",
+            "COUNTYFP10": "217",
+            "Shape_Leng": 259089.631617,
+            "Count_": 19,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2542541287.79004,
+            "Shape__Length": 259089.631616976,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 110,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 110,
+            "OBJECTID": 110,
+            "County": "Hockley",
+            "FIPS": "48219",
+            "COUNTYFP10": "219",
+            "Shape_Leng": 193811.141901,
+            "Count_": 20,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2347063583.30762,
+            "Shape__Length": 193811.141900777,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 111,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 111,
+            "OBJECTID": 111,
+            "County": "Hood",
+            "FIPS": "48221",
+            "COUNTYFP10": "221",
+            "Shape_Leng": 140138.922206,
+            "Count_": 19,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1127023261.61621,
+            "Shape__Length": 140138.922206216,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 112,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 112,
+            "OBJECTID": 112,
+            "County": "Hopkins",
+            "FIPS": "48223",
+            "COUNTYFP10": "223",
+            "Shape_Leng": 235000.029016,
+            "Count_": 7,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2046728359.68848,
+            "Shape__Length": 235000.029015581,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 113,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 113,
+            "OBJECTID": 113,
+            "County": "Houston",
+            "FIPS": "48225",
+            "COUNTYFP10": "225",
+            "Shape_Leng": 318314.522782,
+            "Count_": 10,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3189103266.39063,
+            "Shape__Length": 318314.522782421,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 114,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 114,
+            "OBJECTID": 114,
+            "County": "Howard",
+            "FIPS": "48227",
+            "COUNTYFP10": "227",
+            "Shape_Leng": 193175.769464,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2332675273.58301,
+            "Shape__Length": 193175.769463655,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 115,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 115,
+            "OBJECTID": 115,
+            "County": "Hudspeth",
+            "FIPS": "48229",
+            "COUNTYFP10": "229",
+            "Shape_Leng": 516939.360656,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 11790678991.3564,
+            "Shape__Length": 516939.360656448,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 116,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 116,
+            "OBJECTID": 116,
+            "County": "Hunt",
+            "FIPS": "48231",
+            "COUNTYFP10": "231",
+            "Shape_Leng": 209695.389144,
+            "Count_": 56,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2277092133.32715,
+            "Shape__Length": 209695.389143819,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 117,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 117,
+            "OBJECTID": 117,
+            "County": "Hutchinson",
+            "FIPS": "48233",
+            "COUNTYFP10": "233",
+            "Shape_Leng": 192872.00486,
+            "Count_": 19,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2322948398.91211,
+            "Shape__Length": 192872.004859858,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 118,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 118,
+            "OBJECTID": 118,
+            "County": "Irion",
+            "FIPS": "48235",
+            "COUNTYFP10": "235",
+            "Shape_Leng": 208547.686575,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2712129493.42188,
+            "Shape__Length": 208547.686575309,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 119,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 119,
+            "OBJECTID": 119,
+            "County": "Jack",
+            "FIPS": "48237",
+            "COUNTYFP10": "237",
+            "Shape_Leng": 196262.878918,
+            "Count_": 4,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2375762378.72754,
+            "Shape__Length": 196262.878917646,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 120,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 120,
+            "OBJECTID": 120,
+            "County": "Jackson",
+            "FIPS": "48239",
+            "COUNTYFP10": "239",
+            "Shape_Leng": 231641.554437,
+            "Count_": 14,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2213434404.76855,
+            "Shape__Length": 231641.554437009,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 121,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 121,
+            "OBJECTID": 121,
+            "County": "Jasper",
+            "FIPS": "48241",
+            "COUNTYFP10": "241",
+            "Shape_Leng": 385045.481749,
+            "Count_": 19,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2501076546.81152,
+            "Shape__Length": 385045.481748728,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 122,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 122,
+            "OBJECTID": 122,
+            "County": "Jeff Davis",
+            "FIPS": "48243",
+            "COUNTYFP10": "243",
+            "Shape_Leng": 338858.614534,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 5841005512.20117,
+            "Shape__Length": 338858.614534379,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 123,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 123,
+            "OBJECTID": 123,
+            "County": "Jefferson",
+            "FIPS": "48245",
+            "COUNTYFP10": "245",
+            "Shape_Leng": 303141.127705,
+            "Count_": 353,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2871255384.375,
+            "Shape__Length": 303141.127705424,
+            "Deaths": 25
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 124,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 124,
+            "OBJECTID": 124,
+            "County": "Jim Hogg",
+            "FIPS": "48247",
+            "COUNTYFP10": "247",
+            "Shape_Leng": 239262.525628,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2945956061.85059,
+            "Shape__Length": 239262.525628379,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 125,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 125,
+            "OBJECTID": 125,
+            "County": "Jim Wells",
+            "FIPS": "48249",
+            "COUNTYFP10": "249",
+            "Shape_Leng": 258643.820304,
+            "Count_": 5,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2247893626.75488,
+            "Shape__Length": 258643.820303876,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 126,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 126,
+            "OBJECTID": 126,
+            "County": "Johnson",
+            "FIPS": "48251",
+            "COUNTYFP10": "251",
+            "Shape_Leng": 184518.494304,
+            "Count_": 99,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1894861812.06836,
+            "Shape__Length": 184518.494303506,
+            "Deaths": 4
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 127,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 127,
+            "OBJECTID": 127,
+            "County": "Jones",
+            "FIPS": "48253",
+            "COUNTYFP10": "253",
+            "Shape_Leng": 197880.447793,
+            "Count_": 87,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2418432333.18359,
+            "Shape__Length": 197880.44779279,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 128,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 128,
+            "OBJECTID": 128,
+            "County": "Karnes",
+            "FIPS": "48255",
+            "COUNTYFP10": "255",
+            "Shape_Leng": 204121.833274,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1946664421.57715,
+            "Shape__Length": 204121.833273536,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 129,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 129,
+            "OBJECTID": 129,
+            "County": "Kaufman",
+            "FIPS": "48257",
+            "COUNTYFP10": "257",
+            "Shape_Leng": 204438.324866,
+            "Count_": 111,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2084048484.55762,
+            "Shape__Length": 204438.324866397,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 130,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 130,
+            "OBJECTID": 130,
+            "County": "Kendall",
+            "FIPS": "48259",
+            "COUNTYFP10": "259",
+            "Shape_Leng": 165568.20823,
+            "Count_": 18,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1710853304.6084,
+            "Shape__Length": 165568.208229747,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 131,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 131,
+            "OBJECTID": 131,
+            "County": "Kenedy",
+            "FIPS": "48261",
+            "COUNTYFP10": "261",
+            "Shape_Leng": 301563.303819,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 5046612576.73535,
+            "Shape__Length": 301563.303818501,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 132,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 132,
+            "OBJECTID": 132,
+            "County": "Kent",
+            "FIPS": "48263",
+            "COUNTYFP10": "263",
+            "Shape_Leng": 192476.230826,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2331186243.63086,
+            "Shape__Length": 192476.230826005,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 133,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 133,
+            "OBJECTID": 133,
+            "County": "Kerr",
+            "FIPS": "48265",
+            "COUNTYFP10": "265",
+            "Shape_Leng": 262821.720414,
+            "Count_": 7,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2856921649.20703,
+            "Shape__Length": 262821.720413528,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 134,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 134,
+            "OBJECTID": 134,
+            "County": "Kimble",
+            "FIPS": "48267",
+            "COUNTYFP10": "267",
+            "Shape_Leng": 249407.556495,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3227355689.59082,
+            "Shape__Length": 249407.556495064,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 135,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 135,
+            "OBJECTID": 135,
+            "County": "King",
+            "FIPS": "48269",
+            "COUNTYFP10": "269",
+            "Shape_Leng": 194288.664329,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2359436503.57813,
+            "Shape__Length": 194288.664328887,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 136,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 136,
+            "OBJECTID": 136,
+            "County": "Kinney",
+            "FIPS": "48271",
+            "COUNTYFP10": "271",
+            "Shape_Leng": 249878.717605,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3524554970.99512,
+            "Shape__Length": 249878.717605423,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 137,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 137,
+            "OBJECTID": 137,
+            "County": "Kleberg",
+            "FIPS": "48273",
+            "COUNTYFP10": "273",
+            "Shape_Leng": 271105.492325,
+            "Count_": 10,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2824089393.60938,
+            "Shape__Length": 271105.492324918,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 138,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 138,
+            "OBJECTID": 138,
+            "County": "Knox",
+            "FIPS": "48275",
+            "COUNTYFP10": "275",
+            "Shape_Leng": 218280.479681,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2209929849.55371,
+            "Shape__Length": 218280.479680994,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 139,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 139,
+            "OBJECTID": 139,
+            "County": "Lamar",
+            "FIPS": "48277",
+            "COUNTYFP10": "277",
+            "Shape_Leng": 273974.331028,
+            "Count_": 77,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2410663111.31738,
+            "Shape__Length": 273974.331027868,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 140,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 140,
+            "OBJECTID": 140,
+            "County": "Lamb",
+            "FIPS": "48279",
+            "COUNTYFP10": "279",
+            "Shape_Leng": 205450.715853,
+            "Count_": 5,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2630946279.62695,
+            "Shape__Length": 205450.715852646,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 141,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 141,
+            "OBJECTID": 141,
+            "County": "Lampasas",
+            "FIPS": "48281",
+            "COUNTYFP10": "281",
+            "Shape_Leng": 201445.205768,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1841217724.43555,
+            "Shape__Length": 201445.205767509,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 142,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 142,
+            "OBJECTID": 142,
+            "County": "La Salle",
+            "FIPS": "48283",
+            "COUNTYFP10": "283",
+            "Shape_Leng": 248822.588474,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3863553719.83008,
+            "Shape__Length": 248822.588473799,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 143,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 143,
+            "OBJECTID": 143,
+            "County": "Lavaca",
+            "FIPS": "48285",
+            "COUNTYFP10": "285",
+            "Shape_Leng": 198590.59946,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2505426750.70508,
+            "Shape__Length": 198590.599460436,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 144,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 144,
+            "OBJECTID": 144,
+            "County": "Lee",
+            "FIPS": "48287",
+            "COUNTYFP10": "287",
+            "Shape_Leng": 229958.09905,
+            "Count_": 4,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1635785826.0625,
+            "Shape__Length": 229958.09905017,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 145,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 145,
+            "OBJECTID": 145,
+            "County": "Leon",
+            "FIPS": "48289",
+            "COUNTYFP10": "289",
+            "Shape_Leng": 297770.307065,
+            "Count_": 9,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2786892144.20703,
+            "Shape__Length": 297770.307064793,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 146,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 146,
+            "OBJECTID": 146,
+            "County": "Liberty",
+            "FIPS": "48291",
+            "COUNTYFP10": "291",
+            "Shape_Leng": 240668.236291,
+            "Count_": 49,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3034932016.48047,
+            "Shape__Length": 240668.23629137,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 147,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 147,
+            "OBJECTID": 147,
+            "County": "Limestone",
+            "FIPS": "48293",
+            "COUNTYFP10": "293",
+            "Shape_Leng": 198026.855686,
+            "Count_": 13,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2406661646.44824,
+            "Shape__Length": 198026.855685989,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 148,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 148,
+            "OBJECTID": 148,
+            "County": "Lipscomb",
+            "FIPS": "48295",
+            "COUNTYFP10": "295",
+            "Shape_Leng": 197280.832282,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2423040061.78223,
+            "Shape__Length": 197280.832281529,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 149,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 149,
+            "OBJECTID": 149,
+            "County": "Live Oak",
+            "FIPS": "48297",
+            "COUNTYFP10": "297",
+            "Shape_Leng": 242239.675936,
+            "Count_": 5,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2789563026.62988,
+            "Shape__Length": 242239.675936116,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 150,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 150,
+            "OBJECTID": 150,
+            "County": "Llano",
+            "FIPS": "48299",
+            "COUNTYFP10": "299",
+            "Shape_Leng": 234408.931271,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2491162896.60352,
+            "Shape__Length": 234408.931270926,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 151,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 151,
+            "OBJECTID": 151,
+            "County": "Loving",
+            "FIPS": "48301",
+            "COUNTYFP10": "301",
+            "Shape_Leng": 215840.378301,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1745377240.05957,
+            "Shape__Length": 215840.378301413,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 152,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 152,
+            "OBJECTID": 152,
+            "County": "Lubbock",
+            "FIPS": "48303",
+            "COUNTYFP10": "303",
+            "Shape_Leng": 192992.28027,
+            "Count_": 582,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2326757689.87939,
+            "Shape__Length": 192992.280270008,
+            "Deaths": 48
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 153,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 153,
+            "OBJECTID": 153,
+            "County": "Lynn",
+            "FIPS": "48305",
+            "COUNTYFP10": "305",
+            "Shape_Leng": 192301.790495,
+            "Count_": 5,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2306798120.4375,
+            "Shape__Length": 192301.790495162,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 154,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 154,
+            "OBJECTID": 154,
+            "County": "McCulloch",
+            "FIPS": "48307",
+            "COUNTYFP10": "307",
+            "Shape_Leng": 254361.308208,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2768359436.76465,
+            "Shape__Length": 254361.308208097,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 155,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 155,
+            "OBJECTID": 155,
+            "County": "McLennan",
+            "FIPS": "48309",
+            "COUNTYFP10": "309",
+            "Shape_Leng": 211148.939774,
+            "Count_": 94,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2734372131.70703,
+            "Shape__Length": 211148.939774428,
+            "Deaths": 4
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 156,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 156,
+            "OBJECTID": 156,
+            "County": "McMullen",
+            "FIPS": "48311",
+            "COUNTYFP10": "311",
+            "Shape_Leng": 222306.729701,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2990982161.88086,
+            "Shape__Length": 222306.729700681,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 157,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 157,
+            "OBJECTID": 157,
+            "County": "Madison",
+            "FIPS": "48313",
+            "COUNTYFP10": "313",
+            "Shape_Leng": 199849.560142,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1218424346.93848,
+            "Shape__Length": 199849.560142162,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 158,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 158,
+            "OBJECTID": 158,
+            "County": "Marion",
+            "FIPS": "48315",
+            "COUNTYFP10": "315",
+            "Shape_Leng": 199285.652341,
+            "Count_": 16,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1084762852.18359,
+            "Shape__Length": 199285.652341291,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 159,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 159,
+            "OBJECTID": 159,
+            "County": "Martin",
+            "FIPS": "48317",
+            "COUNTYFP10": "317",
+            "Shape_Leng": 194366.171809,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2362334114.31689,
+            "Shape__Length": 194366.171808904,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 160,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 160,
+            "OBJECTID": 160,
+            "County": "Mason",
+            "FIPS": "48319",
+            "COUNTYFP10": "319",
+            "Shape_Leng": 197154.424126,
+            "Count_": 28,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2404379855.20605,
+            "Shape__Length": 197154.424125526,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 161,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 161,
+            "OBJECTID": 161,
+            "County": "Matagorda",
+            "FIPS": "48321",
+            "COUNTYFP10": "321",
+            "Shape_Leng": 333017.821573,
+            "Count_": 62,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 4166404791.38281,
+            "Shape__Length": 333017.821573085,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 162,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 162,
+            "OBJECTID": 162,
+            "County": "Maverick",
+            "FIPS": "48323",
+            "COUNTYFP10": "323",
+            "Shape_Leng": 300350.720399,
+            "Count_": 26,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3337932345.40332,
+            "Shape__Length": 300350.720399299,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 163,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 163,
+            "OBJECTID": 163,
+            "County": "Medina",
+            "FIPS": "48325",
+            "COUNTYFP10": "325",
+            "Shape_Leng": 259588.481125,
+            "Count_": 22,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3445556753.7207,
+            "Shape__Length": 259588.481125055,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 164,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 164,
+            "OBJECTID": 164,
+            "County": "Menard",
+            "FIPS": "48327",
+            "COUNTYFP10": "327",
+            "Shape_Leng": 203967.6993,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2327023572.21387,
+            "Shape__Length": 203967.699299945,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 165,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 165,
+            "OBJECTID": 165,
+            "County": "Midland",
+            "FIPS": "48329",
+            "COUNTYFP10": "329",
+            "Shape_Leng": 192972.833563,
+            "Count_": 100,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2326612244.91846,
+            "Shape__Length": 192972.833562704,
+            "Deaths": 10
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 166,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 166,
+            "OBJECTID": 166,
+            "County": "Milam",
+            "FIPS": "48331",
+            "COUNTYFP10": "331",
+            "Shape_Leng": 235873.783407,
+            "Count_": 18,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2635315167.34277,
+            "Shape__Length": 235873.783407094,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 167,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 167,
+            "OBJECTID": 167,
+            "County": "Mills",
+            "FIPS": "48333",
+            "COUNTYFP10": "333",
+            "Shape_Leng": 247404.318492,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1933657735.21191,
+            "Shape__Length": 247404.318491875,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 168,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 168,
+            "OBJECTID": 168,
+            "County": "Mitchell",
+            "FIPS": "48335",
+            "COUNTYFP10": "335",
+            "Shape_Leng": 194534.035695,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2362877559.7207,
+            "Shape__Length": 194534.035694848,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 169,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 169,
+            "OBJECTID": 169,
+            "County": "Montague",
+            "FIPS": "48337",
+            "COUNTYFP10": "337",
+            "Shape_Leng": 221199.559196,
+            "Count_": 9,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2424058727.92578,
+            "Shape__Length": 221199.559195943,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 170,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 170,
+            "OBJECTID": 170,
+            "County": "Montgomery",
+            "FIPS": "48339",
+            "COUNTYFP10": "339",
+            "Shape_Leng": 277910.406253,
+            "Count_": 689,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2778040850.83789,
+            "Shape__Length": 277910.406252842,
+            "Deaths": 15
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 171,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 171,
+            "OBJECTID": 171,
+            "County": "Moore",
+            "FIPS": "48341",
+            "COUNTYFP10": "341",
+            "Shape_Leng": 194333.89357,
+            "Count_": 487,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2361006757.28516,
+            "Shape__Length": 194333.893569642,
+            "Deaths": 7
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 172,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 172,
+            "OBJECTID": 172,
+            "County": "Morris",
+            "FIPS": "48343",
+            "COUNTYFP10": "343",
+            "Shape_Leng": 160659.281851,
+            "Count_": 9,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 667869799.556641,
+            "Shape__Length": 160659.281850906,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 173,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 173,
+            "OBJECTID": 173,
+            "County": "Motley",
+            "FIPS": "48345",
+            "COUNTYFP10": "345",
+            "Shape_Leng": 202659.665892,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2558841710.18652,
+            "Shape__Length": 202659.6658922,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 174,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 174,
+            "OBJECTID": 174,
+            "County": "Nacogdoches",
+            "FIPS": "48347",
+            "COUNTYFP10": "347",
+            "Shape_Leng": 411938.809703,
+            "Count_": 202,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2530539738.56543,
+            "Shape__Length": 411938.809702648,
+            "Deaths": 7
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 175,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 175,
+            "OBJECTID": 175,
+            "County": "Navarro",
+            "FIPS": "48349",
+            "COUNTYFP10": "349",
+            "Shape_Leng": 248220.49126,
+            "Count_": 36,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2801106519.77832,
+            "Shape__Length": 248220.491260276,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 176,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 176,
+            "OBJECTID": 176,
+            "County": "Newton",
+            "FIPS": "48351",
+            "COUNTYFP10": "351",
+            "Shape_Leng": 360373.895071,
+            "Count_": 4,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2423747743.03711,
+            "Shape__Length": 360373.895070554,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 177,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 177,
+            "OBJECTID": 177,
+            "County": "Nolan",
+            "FIPS": "48353",
+            "COUNTYFP10": "353",
+            "Shape_Leng": 194023.153018,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2357806250.09082,
+            "Shape__Length": 194023.153017773,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 178,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 178,
+            "OBJECTID": 178,
+            "County": "Nueces",
+            "FIPS": "48355",
+            "COUNTYFP10": "355",
+            "Shape_Leng": 359471.345419,
+            "Count_": 123,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3017474930.40918,
+            "Shape__Length": 359471.345419188,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 179,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 179,
+            "OBJECTID": 179,
+            "County": "Ochiltree",
+            "FIPS": "48357",
+            "COUNTYFP10": "357",
+            "Shape_Leng": 195987.486946,
+            "Count_": 29,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2386259934.34082,
+            "Shape__Length": 195987.486946322,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 180,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 180,
+            "OBJECTID": 180,
+            "County": "Oldham",
+            "FIPS": "48359",
+            "COUNTYFP10": "359",
+            "Shape_Leng": 257506.172533,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3892561980.23438,
+            "Shape__Length": 257506.172533408,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 181,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 181,
+            "OBJECTID": 181,
+            "County": "Orange",
+            "FIPS": "48361",
+            "COUNTYFP10": "361",
+            "Shape_Leng": 192871.137993,
+            "Count_": 81,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 979187910.350586,
+            "Shape__Length": 192871.137993295,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 182,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 182,
+            "OBJECTID": 182,
+            "County": "Palo Pinto",
+            "FIPS": "48363",
+            "COUNTYFP10": "363",
+            "Shape_Leng": 205274.4372,
+            "Count_": 9,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2543295227.5791,
+            "Shape__Length": 205274.437200471,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 183,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 183,
+            "OBJECTID": 183,
+            "County": "Panola",
+            "FIPS": "48365",
+            "COUNTYFP10": "365",
+            "Shape_Leng": 209198.937995,
+            "Count_": 138,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2118624722.96582,
+            "Shape__Length": 209198.937995309,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 184,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 184,
+            "OBJECTID": 184,
+            "County": "Parker",
+            "FIPS": "48367",
+            "COUNTYFP10": "367",
+            "Shape_Leng": 194049.447359,
+            "Count_": 44,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2348725172.56543,
+            "Shape__Length": 194049.447358534,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 185,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 185,
+            "OBJECTID": 185,
+            "County": "Parmer",
+            "FIPS": "48369",
+            "COUNTYFP10": "369",
+            "Shape_Leng": 191383.959534,
+            "Count_": 17,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2290233196.86328,
+            "Shape__Length": 191383.959534094,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 186,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 186,
+            "OBJECTID": 186,
+            "County": "Pecos",
+            "FIPS": "48371",
+            "COUNTYFP10": "371",
+            "Shape_Leng": 628650.056752,
+            "Count_": 14,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 12289440672.0308,
+            "Shape__Length": 628650.056752237,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 187,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 187,
+            "OBJECTID": 187,
+            "County": "Polk",
+            "FIPS": "48373",
+            "COUNTYFP10": "373",
+            "Shape_Leng": 285361.770289,
+            "Count_": 35,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2861994594.36035,
+            "Shape__Length": 285361.770289185,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 188,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 188,
+            "OBJECTID": 188,
+            "County": "Potter",
+            "FIPS": "48375",
+            "COUNTYFP10": "375",
+            "Shape_Leng": 195592.82232,
+            "Count_": 1027,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2390288957.16992,
+            "Shape__Length": 195592.822319846,
+            "Deaths": 15
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 189,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 189,
+            "OBJECTID": 189,
+            "County": "Presidio",
+            "FIPS": "48377",
+            "COUNTYFP10": "377",
+            "Shape_Leng": 554073.123697,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 9949516404.4751,
+            "Shape__Length": 554073.123697433,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 190,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 190,
+            "OBJECTID": 190,
+            "County": "Rains",
+            "FIPS": "48379",
+            "COUNTYFP10": "379",
+            "Shape_Leng": 137078.542833,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 668025325.162109,
+            "Shape__Length": 137078.542832534,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 191,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 191,
+            "OBJECTID": 191,
+            "County": "Randall",
+            "FIPS": "48381",
+            "COUNTYFP10": "381",
+            "Shape_Leng": 195686.045104,
+            "Count_": 343,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2388902745.36914,
+            "Shape__Length": 195686.045104383,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 192,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 192,
+            "OBJECTID": 192,
+            "County": "Reagan",
+            "FIPS": "48383",
+            "COUNTYFP10": "383",
+            "Shape_Leng": 222374.056551,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3032906999.52832,
+            "Shape__Length": 222374.056550693,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 193,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 193,
+            "OBJECTID": 193,
+            "County": "Real",
+            "FIPS": "48385",
+            "COUNTYFP10": "385",
+            "Shape_Leng": 193180.352434,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1806669718.11426,
+            "Shape__Length": 193180.352433536,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 194,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 194,
+            "OBJECTID": 194,
+            "County": "Red River",
+            "FIPS": "48387",
+            "COUNTYFP10": "387",
+            "Shape_Leng": 356894.771057,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2729885955.94043,
+            "Shape__Length": 356894.771057339,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 195,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 195,
+            "OBJECTID": 195,
+            "County": "Reeves",
+            "FIPS": "48389",
+            "COUNTYFP10": "389",
+            "Shape_Leng": 475107.389614,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 6813914861.57031,
+            "Shape__Length": 475107.389614471,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 196,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 196,
+            "OBJECTID": 196,
+            "County": "Refugio",
+            "FIPS": "48391",
+            "COUNTYFP10": "391",
+            "Shape_Leng": 305455.181578,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2115752116.30664,
+            "Shape__Length": 305455.181578075,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 197,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 197,
+            "OBJECTID": 197,
+            "County": "Roberts",
+            "FIPS": "48393",
+            "COUNTYFP10": "393",
+            "Shape_Leng": 195996.509478,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2398832563.66992,
+            "Shape__Length": 195996.509477955,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 198,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 198,
+            "OBJECTID": 198,
+            "County": "Robertson",
+            "FIPS": "48395",
+            "COUNTYFP10": "395",
+            "Shape_Leng": 258534.185679,
+            "Count_": 5,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2231768680.05957,
+            "Shape__Length": 258534.185679244,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 199,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 199,
+            "OBJECTID": 199,
+            "County": "Rockwall",
+            "FIPS": "48397",
+            "COUNTYFP10": "397",
+            "Shape_Leng": 78523.5512625,
+            "Count_": 100,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 383843427.075195,
+            "Shape__Length": 78523.5512624909,
+            "Deaths": 4
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 200,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 200,
+            "OBJECTID": 200,
+            "County": "Runnels",
+            "FIPS": "48399",
+            "COUNTYFP10": "399",
+            "Shape_Leng": 208921.04683,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2726480985.87305,
+            "Shape__Length": 208921.046830054,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 201,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 201,
+            "OBJECTID": 201,
+            "County": "Rusk",
+            "FIPS": "48401",
+            "COUNTYFP10": "401",
+            "Shape_Leng": 249552.207249,
+            "Count_": 40,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2420643009.13379,
+            "Shape__Length": 249552.207249339,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 202,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 202,
+            "OBJECTID": 202,
+            "County": "Sabine",
+            "FIPS": "48403",
+            "COUNTYFP10": "403",
+            "Shape_Leng": 207155.403384,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1487109785.9707,
+            "Shape__Length": 207155.403383611,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 203,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 203,
+            "OBJECTID": 203,
+            "County": "San Augustine",
+            "FIPS": "48405",
+            "COUNTYFP10": "405",
+            "Shape_Leng": 262756.778722,
+            "Count_": 21,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1527524895.22266,
+            "Shape__Length": 262756.778722339,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 204,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 204,
+            "OBJECTID": 204,
+            "County": "San Jacinto",
+            "FIPS": "48407",
+            "COUNTYFP10": "407",
+            "Shape_Leng": 225902.285617,
+            "Count_": 10,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1619602265.10449,
+            "Shape__Length": 225902.285616876,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 205,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 205,
+            "OBJECTID": 205,
+            "County": "San Patricio",
+            "FIPS": "48409",
+            "COUNTYFP10": "409",
+            "Shape_Leng": 324711.334429,
+            "Count_": 16,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1831616276.73633,
+            "Shape__Length": 324711.334429464,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 206,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 206,
+            "OBJECTID": 206,
+            "County": "San Saba",
+            "FIPS": "48411",
+            "COUNTYFP10": "411",
+            "Shape_Leng": 319057.918719,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2935991958.63086,
+            "Shape__Length": 319057.918719315,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 207,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 207,
+            "OBJECTID": 207,
+            "County": "Schleicher",
+            "FIPS": "48413",
+            "COUNTYFP10": "413",
+            "Shape_Leng": 244807.283476,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3380339916.83789,
+            "Shape__Length": 244807.283475577,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 208,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 208,
+            "OBJECTID": 208,
+            "County": "Scurry",
+            "FIPS": "48415",
+            "COUNTYFP10": "415",
+            "Shape_Leng": 193343.520271,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2342076551.74805,
+            "Shape__Length": 193343.520270541,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 209,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 209,
+            "OBJECTID": 209,
+            "County": "Shackelford",
+            "FIPS": "48417",
+            "COUNTYFP10": "417",
+            "Shape_Leng": 194520.397817,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2362710083.37207,
+            "Shape__Length": 194520.39781732,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 210,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 210,
+            "OBJECTID": 210,
+            "County": "Shelby",
+            "FIPS": "48419",
+            "COUNTYFP10": "419",
+            "Shape_Leng": 267744.807559,
+            "Count_": 149,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2152626722.29004,
+            "Shape__Length": 267744.807558827,
+            "Deaths": 4
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 211,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 211,
+            "OBJECTID": 211,
+            "County": "Sherman",
+            "FIPS": "48421",
+            "COUNTYFP10": "421",
+            "Shape_Leng": 195917.807982,
+            "Count_": 20,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2399405750.36914,
+            "Shape__Length": 195917.807982158,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 212,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 212,
+            "OBJECTID": 212,
+            "County": "Smith",
+            "FIPS": "48423",
+            "COUNTYFP10": "423",
+            "Shape_Leng": 298436.224948,
+            "Count_": 170,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2450210282.67383,
+            "Shape__Length": 298436.224948074,
+            "Deaths": 3
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 213,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 213,
+            "OBJECTID": 213,
+            "County": "Somervell",
+            "FIPS": "48425",
+            "COUNTYFP10": "425",
+            "Shape_Leng": 91657.9893768,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 495178700.318359,
+            "Shape__Length": 91657.9893768408,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 214,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 214,
+            "OBJECTID": 214,
+            "County": "Starr",
+            "FIPS": "48427",
+            "COUNTYFP10": "427",
+            "Shape_Leng": 270211.664292,
+            "Count_": 14,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3190918718.03027,
+            "Shape__Length": 270211.664292066,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 215,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 215,
+            "OBJECTID": 215,
+            "County": "Stephens",
+            "FIPS": "48429",
+            "COUNTYFP10": "429",
+            "Shape_Leng": 194915.73414,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2378041180.88184,
+            "Shape__Length": 194915.734140301,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 216,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 216,
+            "OBJECTID": 216,
+            "County": "Sterling",
+            "FIPS": "48431",
+            "COUNTYFP10": "431",
+            "Shape_Leng": 201154.949017,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2381944463.7666,
+            "Shape__Length": 201154.949016968,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 217,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 217,
+            "OBJECTID": 217,
+            "County": "Stonewall",
+            "FIPS": "48433",
+            "COUNTYFP10": "433",
+            "Shape_Leng": 195034.546315,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2375909831.17676,
+            "Shape__Length": 195034.546315203,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 218,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 218,
+            "OBJECTID": 218,
+            "County": "Sutton",
+            "FIPS": "48435",
+            "COUNTYFP10": "435",
+            "Shape_Leng": 254543.791061,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3751616127.43457,
+            "Shape__Length": 254543.791060938,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 219,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 219,
+            "OBJECTID": 219,
+            "County": "Swisher",
+            "FIPS": "48437",
+            "COUNTYFP10": "437",
+            "Shape_Leng": 193165.441068,
+            "Count_": 11,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2330426367.18164,
+            "Shape__Length": 193165.441067535,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 220,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 220,
+            "OBJECTID": 220,
+            "County": "Tarrant",
+            "FIPS": "48439",
+            "COUNTYFP10": "439",
+            "Shape_Leng": 193184.427625,
+            "Count_": 2956,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2328609064.64258,
+            "Shape__Length": 193184.427624635,
+            "Deaths": 90
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 221,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 221,
+            "OBJECTID": 221,
+            "County": "Taylor",
+            "FIPS": "48441",
+            "COUNTYFP10": "441",
+            "Shape_Leng": 194892.435107,
+            "Count_": 207,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2371623065.875,
+            "Shape__Length": 194892.435107058,
+            "Deaths": 6
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 222,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 222,
+            "OBJECTID": 222,
+            "County": "Terrell",
+            "FIPS": "48443",
+            "COUNTYFP10": "443",
+            "Shape_Leng": 398506.681462,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 6083467213.0332,
+            "Shape__Length": 398506.681462019,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 223,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 223,
+            "OBJECTID": 223,
+            "County": "Terry",
+            "FIPS": "48445",
+            "COUNTYFP10": "445",
+            "Shape_Leng": 191901.509574,
+            "Count_": 12,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2300243242.1665,
+            "Shape__Length": 191901.509574088,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 224,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 224,
+            "OBJECTID": 224,
+            "County": "Throckmorton",
+            "FIPS": "48447",
+            "COUNTYFP10": "447",
+            "Shape_Leng": 194488.069951,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2363611627.22949,
+            "Shape__Length": 194488.069951407,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 225,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 225,
+            "OBJECTID": 225,
+            "County": "Titus",
+            "FIPS": "48449",
+            "COUNTYFP10": "449",
+            "Shape_Leng": 205166.305887,
+            "Count_": 29,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1098985395.66699,
+            "Shape__Length": 205166.305886587,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 226,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 226,
+            "OBJECTID": 226,
+            "County": "Tom Green",
+            "FIPS": "48451",
+            "COUNTYFP10": "451",
+            "Shape_Leng": 352368.927856,
+            "Count_": 59,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3973064305.37305,
+            "Shape__Length": 352368.927856305,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 227,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 227,
+            "OBJECTID": 227,
+            "County": "Travis",
+            "FIPS": "48453",
+            "COUNTYFP10": "453",
+            "Shape_Leng": 253764.713344,
+            "Count_": 2002,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2639028209.07422,
+            "Shape__Length": 253764.713343593,
+            "Deaths": 59
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 228,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 228,
+            "OBJECTID": 228,
+            "County": "Trinity",
+            "FIPS": "48455",
+            "COUNTYFP10": "455",
+            "Shape_Leng": 229117.079346,
+            "Count_": 11,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1841323692.96777,
+            "Shape__Length": 229117.079346211,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 229,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 229,
+            "OBJECTID": 229,
+            "County": "Tyler",
+            "FIPS": "48457",
+            "COUNTYFP10": "457",
+            "Shape_Leng": 272189.390198,
+            "Count_": 7,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2413136637.15234,
+            "Shape__Length": 272189.390197612,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 230,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 230,
+            "OBJECTID": 230,
+            "County": "Upshur",
+            "FIPS": "48459",
+            "COUNTYFP10": "459",
+            "Shape_Leng": 184848.560419,
+            "Count_": 17,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1529288336.9248,
+            "Shape__Length": 184848.560418694,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 231,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 231,
+            "OBJECTID": 231,
+            "County": "Upton",
+            "FIPS": "48461",
+            "COUNTYFP10": "461",
+            "Shape_Leng": 227158.304033,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3201820887.6499,
+            "Shape__Length": 227158.304033345,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 232,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 232,
+            "OBJECTID": 232,
+            "County": "Uvalde",
+            "FIPS": "48463",
+            "COUNTYFP10": "463",
+            "Shape_Leng": 254347.720354,
+            "Count_": 6,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 4024142072.2207,
+            "Shape__Length": 254347.7203542,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 233,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 233,
+            "OBJECTID": 233,
+            "County": "Val Verde",
+            "FIPS": "48465",
+            "COUNTYFP10": "465",
+            "Shape_Leng": 459537.15076,
+            "Count_": 13,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 8341902767.53662,
+            "Shape__Length": 459537.150759916,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 234,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 234,
+            "OBJECTID": 234,
+            "County": "Van Zandt",
+            "FIPS": "48467",
+            "COUNTYFP10": "467",
+            "Shape_Leng": 245959.774146,
+            "Count_": 18,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2218031986.54492,
+            "Shape__Length": 245959.774145654,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 235,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 235,
+            "OBJECTID": 235,
+            "County": "Victoria",
+            "FIPS": "48469",
+            "COUNTYFP10": "469",
+            "Shape_Leng": 286809.831767,
+            "Count_": 146,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2296523987.8252,
+            "Shape__Length": 286809.831766525,
+            "Deaths": 5
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 236,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 236,
+            "OBJECTID": 236,
+            "County": "Walker",
+            "FIPS": "48471",
+            "COUNTYFP10": "471",
+            "Shape_Leng": 223034.379166,
+            "Count_": 332,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2067237033.42383,
+            "Shape__Length": 223034.379166156,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 237,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 237,
+            "OBJECTID": 237,
+            "County": "Waller",
+            "FIPS": "48473",
+            "COUNTYFP10": "473",
+            "Shape_Leng": 255108.326614,
+            "Count_": 36,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1336087055.16797,
+            "Shape__Length": 255108.326614353,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 238,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 238,
+            "OBJECTID": 238,
+            "County": "Ward",
+            "FIPS": "48475",
+            "COUNTYFP10": "475",
+            "Shape_Leng": 297556.825613,
+            "Count_": null,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2155649807.53564,
+            "Shape__Length": 297556.825612992,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 239,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 239,
+            "OBJECTID": 239,
+            "County": "Washington",
+            "FIPS": "48477",
+            "COUNTYFP10": "477",
+            "Shape_Leng": 264449.690263,
+            "Count_": 156,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1604018941.02539,
+            "Shape__Length": 264449.690262634,
+            "Deaths": 18
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 240,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 240,
+            "OBJECTID": 240,
+            "County": "Webb",
+            "FIPS": "48479",
+            "COUNTYFP10": "479",
+            "Shape_Leng": 492375.207414,
+            "Count_": 414,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 8737964172.65039,
+            "Shape__Length": 492375.207413847,
+            "Deaths": 17
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 241,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 241,
+            "OBJECTID": 241,
+            "County": "Wharton",
+            "FIPS": "48481",
+            "COUNTYFP10": "481",
+            "Shape_Leng": 255365.93611,
+            "Count_": 41,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2825747501.26367,
+            "Shape__Length": 255365.936109605,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 242,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 242,
+            "OBJECTID": 242,
+            "County": "Wheeler",
+            "FIPS": "48483",
+            "COUNTYFP10": "483",
+            "Shape_Leng": 194979.291646,
+            "Count_": 13,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2373415284.1084,
+            "Shape__Length": 194979.291645823,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 243,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 243,
+            "OBJECTID": 243,
+            "County": "Wichita",
+            "FIPS": "48485",
+            "COUNTYFP10": "485",
+            "Shape_Leng": 186931.240736,
+            "Count_": 71,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1636470348.90137,
+            "Shape__Length": 186931.240736272,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 244,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 244,
+            "OBJECTID": 244,
+            "County": "Wilbarger",
+            "FIPS": "48487",
+            "COUNTYFP10": "487",
+            "Shape_Leng": 256039.137516,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2528055460.12695,
+            "Shape__Length": 256039.137516328,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 245,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 245,
+            "OBJECTID": 245,
+            "County": "Willacy",
+            "FIPS": "48489",
+            "COUNTYFP10": "489",
+            "Shape_Leng": 229070.703875,
+            "Count_": 14,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2036545320.64648,
+            "Shape__Length": 229070.703875205,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 246,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 246,
+            "OBJECTID": 246,
+            "County": "Williamson",
+            "FIPS": "48491",
+            "COUNTYFP10": "491",
+            "Shape_Leng": 251701.215058,
+            "Count_": 352,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2926035555.75391,
+            "Shape__Length": 251701.215057596,
+            "Deaths": 12
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 247,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 247,
+            "OBJECTID": 247,
+            "County": "Wilson",
+            "FIPS": "48493",
+            "COUNTYFP10": "493",
+            "Shape_Leng": 198041.012195,
+            "Count_": 34,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2087641279.93555,
+            "Shape__Length": 198041.012194764,
+            "Deaths": 4
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 248,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 248,
+            "OBJECTID": 248,
+            "County": "Winkler",
+            "FIPS": "48495",
+            "COUNTYFP10": "495",
+            "Shape_Leng": 196049.973375,
+            "Count_": 3,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2169858505.67188,
+            "Shape__Length": 196049.973374818,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 249,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 249,
+            "OBJECTID": 249,
+            "County": "Wise",
+            "FIPS": "48497",
+            "COUNTYFP10": "497",
+            "Shape_Leng": 195554.705584,
+            "Count_": 28,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2382057130.58105,
+            "Shape__Length": 195554.705583542,
+            "Deaths": 2
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 250,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 250,
+            "OBJECTID": 250,
+            "County": "Wood",
+            "FIPS": "48499",
+            "COUNTYFP10": "499",
+            "Shape_Leng": 228468.101431,
+            "Count_": 13,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 1795486922.07813,
+            "Shape__Length": 228468.101430885,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 251,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 251,
+            "OBJECTID": 251,
+            "County": "Yoakum",
+            "FIPS": "48501",
+            "COUNTYFP10": "501",
+            "Shape_Leng": 181929.789143,
+            "Count_": 2,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2064762801.71045,
+            "Shape__Length": 181929.789142625,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 252,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 252,
+            "OBJECTID": 252,
+            "County": "Young",
+            "FIPS": "48503",
+            "COUNTYFP10": "503",
+            "Shape_Leng": 196408.347885,
+            "Count_": 4,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2403310053.3457,
+            "Shape__Length": 196408.347885176,
+            "Deaths": 1
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 253,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 253,
+            "OBJECTID": 253,
+            "County": "Zapata",
+            "FIPS": "48505",
+            "COUNTYFP10": "505",
+            "Shape_Leng": 238464.539484,
+            "Count_": 7,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 2743549674.73633,
+            "Shape__Length": 238464.539483662,
+            "Deaths": null
+         }
+      },
+      {
+         "type": "Feature",
+         "id": 254,
+         "geometry": null,
+         "properties": {
+            "OBJECTID_1": 254,
+            "OBJECTID": 254,
+            "County": "Zavala",
+            "FIPS": "48507",
+            "COUNTYFP10": "507",
+            "Shape_Leng": 235294.528994,
+            "Count_": 1,
+            "LastUpdate": 1588956063866,
+            "Shape__Area": 3363003176.97656,
+            "Shape__Length": 235294.528994164,
+            "Deaths": null
+         }
+      }
+   ]
+}
