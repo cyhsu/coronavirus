@@ -19,3 +19,29 @@ csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_globa
 sent 2800530 bytes  received 214 bytes  5601488.00 bytes/sec
 total size is 81197033  speedup is 28.99
 /Users/cyhsu/dev/virus/dataset/icu/icu.05-09-2020_23:00:04
+[master fb3cda7] Update on  05-09-2020_23:00:14
+ Committer: cyhsu <cyhsu@cyhsu.tamu.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 15 files changed, 23973 insertions(+), 7311 deletions(-)
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/05-09-2020.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/05-09-2020.csv
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_US.csv (66%)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-09-2020_23:00:03
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-05-10_04:00:05
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Texas/AmericanRedCross.Texas.05-09-2020_23:00:13
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Utah/AmericanRedCross.Utah.05-09-2020_23:00:14
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-09-2020_23:00:00
+ create mode 100644 logs/update.log.2020-05-10_04:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
