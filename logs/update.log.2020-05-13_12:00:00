@@ -1,0 +1,12 @@
+/Users/cyhsu/dev/virus/dataset/cases/Texas/Texas.DSHS.05-13-2020_07:00:00
+File "./county_death/Texas_DSHS_county_death.05-13-2020_07:00:01" are the same with the older one. Keep the oldest one.
+File "./tsa_BedAvailability/Texas_DSHS_tsa_BedAvailability.05-13-2020_07:00:01" are the same with the older one. Keep the oldest one.
+Johns_Hopkins.05-13-2020_06:00:01 Johns_Hopkins.05-13-2020_07:00:01
+Files are not the same. Record updates.
+building file list ... done
+
+sent 7454 bytes  received 20 bytes  14948.00 bytes/sec
+total size is 82304357  speedup is 11012.09
+/Users/cyhsu/dev/virus/dataset/icu/icu.05-13-2020_07:00:02
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
