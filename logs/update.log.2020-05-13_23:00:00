@@ -10,3 +10,14 @@ who_covid_19_situation_reports/who_covid_19_sit_rep_time_series/who_covid_19_sit
 sent 207058 bytes  received 48 bytes  414212.00 bytes/sec
 total size is 82458563  speedup is 398.15
 /Users/cyhsu/dev/virus/dataset/icu/icu.05-13-2020_18:00:02
+[master 963d8e0] Update on  05-13-2020_18:00:15
+ 8 files changed, 13349 insertions(+)
+ rewrite dataset/CSSEGISandData/COVID-19/who_covid_19_situation_reports/who_covid_19_sit_rep_time_series/who_covid_19_sit_rep_time_series.csv (97%)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-13-2020_18:00:02
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-05-13_23:00:03
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Texas/AmericanRedCross.Texas.05-13-2020_18:00:13
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Utah/AmericanRedCross.Utah.05-13-2020_18:00:14
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-13-2020_18:00:00
+ create mode 100644 logs/update.log.2020-05-13_23:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
