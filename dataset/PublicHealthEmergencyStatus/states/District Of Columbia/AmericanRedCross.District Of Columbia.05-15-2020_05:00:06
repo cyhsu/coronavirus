@@ -1,0 +1,40 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 3126, 
+      "geometry" : null, 
+      "properties" : {
+        "objectid_1" : 3126, 
+        "objectid" : 2784, 
+        "name" : "District of Columbia", 
+        "state_name" : "District of Columbia", 
+        "fips" : "11001", 
+        "sqmi" : 62.19, 
+        "cnty_name" : "District Of Columbia", 
+        "county_st" : "DC", 
+        "county_st_long" : "District Of Columbia", 
+        "ecode" : "09004", 
+        "chapter" : "ARC serving the District of Columbia", 
+        "rcode" : "09R04", 
+        "region" : "National Capital Area Region", 
+        "dcode" : "D26", 
+        "division" : "Mid-Atlantic Division", 
+        "time_zone" : "Eastern", 
+        "fema_region" : "III", 
+        "notes" : "D.C. Mayor's office declared stay at home orders for the district", 
+        "last_update" : 1585619331000, 
+        "local_health_emg" : "Red", 
+        "dro" : null, 
+        "created_date" : 1585843770670, 
+        "created_user" : "alow_rconline", 
+        "last_edited_date" : 1585843770670, 
+        "last_edited_user" : "alow_rconline", 
+        "globalid" : "2b69d58d-d626-430f-8404-f1c82103a86d", 
+        "Shape__Area" : 282951200.035156, 
+        "Shape__Length" : 79807.7661504436
+      }
+    }
+  ]
+}
