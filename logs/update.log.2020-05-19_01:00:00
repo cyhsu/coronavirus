@@ -8,3 +8,63 @@ building file list ... done
 sent 7859 bytes  received 20 bytes  15758.00 bytes/sec
 total size is 89186656  speedup is 11319.54
 /Users/cyhsu/dev/virus/dataset/icu/icu.05-18-2020_20:00:03
+[master 21f5b3b] Update on  05-18-2020_20:00:19
+ 57 files changed, 113863 insertions(+)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-18-2020_20:00:02
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-05-19_01:00:04
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Alabama/AmericanRedCross.Alabama.05-18-2020_20:00:04
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Alaska/AmericanRedCross.Alaska.05-18-2020_20:00:04
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Arizona/AmericanRedCross.Arizona.05-18-2020_20:00:04
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Arkansas/AmericanRedCross.Arkansas.05-18-2020_20:00:05
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/California/AmericanRedCross.California.05-18-2020_20:00:05
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Colorado/AmericanRedCross.Colorado.05-18-2020_20:00:05
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Connecticut/AmericanRedCross.Connecticut.05-18-2020_20:00:06
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Delaware/AmericanRedCross.Delaware.05-18-2020_20:00:06
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/District Of Columbia/AmericanRedCross.District Of Columbia.05-18-2020_20:00:06
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Florida/AmericanRedCross.Florida.05-18-2020_20:00:06
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Georgia/AmericanRedCross.Georgia.05-18-2020_20:00:07
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Hawaii/AmericanRedCross.Hawaii.05-18-2020_20:00:07
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Idaho/AmericanRedCross.Idaho.05-18-2020_20:00:07
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Illinois/AmericanRedCross.Illinois.05-18-2020_20:00:07
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Indiana/AmericanRedCross.Indiana.05-18-2020_20:00:08
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Iowa/AmericanRedCross.Iowa.05-18-2020_20:00:08
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Kansas/AmericanRedCross.Kansas.05-18-2020_20:00:08
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Kentucky/AmericanRedCross.Kentucky.05-18-2020_20:00:09
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Louisiana/AmericanRedCross.Louisiana.05-18-2020_20:00:09
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Maine/AmericanRedCross.Maine.05-18-2020_20:00:09
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Maryland/AmericanRedCross.Maryland.05-18-2020_20:00:09
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Massachusetts/AmericanRedCross.Massachusetts.05-18-2020_20:00:10
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Michigan/AmericanRedCross.Michigan.05-18-2020_20:00:10
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Minnesota/AmericanRedCross.Minnesota.05-18-2020_20:00:10
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Mississippi/AmericanRedCross.Mississippi.05-18-2020_20:00:11
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Missouri/AmericanRedCross.Missouri.05-18-2020_20:00:11
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Montana/AmericanRedCross.Montana.05-18-2020_20:00:11
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Nebraska/AmericanRedCross.Nebraska.05-18-2020_20:00:12
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Nevada/AmericanRedCross.Nevada.05-18-2020_20:00:12
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/New Hampshire/AmericanRedCross.New Hampshire.05-18-2020_20:00:13
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/New Jersey/AmericanRedCross.New Jersey.05-18-2020_20:00:13
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/New Mexico/AmericanRedCross.New Mexico.05-18-2020_20:00:13
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/New York/AmericanRedCross.New York.05-18-2020_20:00:13
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/North Carolina/AmericanRedCross.North Carolina.05-18-2020_20:00:14
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/North Dakota/AmericanRedCross.North Dakota.05-18-2020_20:00:14
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Ohio/AmericanRedCross.Ohio.05-18-2020_20:00:14
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Oklahoma/AmericanRedCross.Oklahoma.05-18-2020_20:00:14
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Oregon/AmericanRedCross.Oregon.05-18-2020_20:00:15
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Pennsylvania/AmericanRedCross.Pennsylvania.05-18-2020_20:00:15
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Puerto Rico/AmericanRedCross.Puerto Rico.05-18-2020_20:00:15
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Rhode Island/AmericanRedCross.Rhode Island.05-18-2020_20:00:16
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/South Carolina/AmericanRedCross.South Carolina.05-18-2020_20:00:16
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/South Dakota/AmericanRedCross.South Dakota.05-18-2020_20:00:16
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Tennessee/AmericanRedCross.Tennessee.05-18-2020_20:00:16
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Texas/AmericanRedCross.Texas.05-18-2020_20:00:17
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Utah/AmericanRedCross.Utah.05-18-2020_20:00:17
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Vermont/AmericanRedCross.Vermont.05-18-2020_20:00:17
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Virginia/AmericanRedCross.Virginia.05-18-2020_20:00:18
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Washington/AmericanRedCross.Washington.05-18-2020_20:00:18
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/West Virginia/AmericanRedCross.West Virginia.05-18-2020_20:00:18
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Wisconsin/AmericanRedCross.Wisconsin.05-18-2020_20:00:19
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Wyoming/AmericanRedCross.Wyoming.05-18-2020_20:00:19
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-18-2020_20:00:00
+ create mode 100644 logs/update.log.2020-05-19_01:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
