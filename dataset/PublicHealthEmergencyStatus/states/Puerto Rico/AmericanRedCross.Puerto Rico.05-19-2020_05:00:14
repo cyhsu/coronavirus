@@ -1,0 +1,40 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 3145, 
+      "geometry" : null, 
+      "properties" : {
+        "objectid_1" : 3145, 
+        "objectid" : null, 
+        "name" : "Puerto Rico", 
+        "state_name" : "Puerto Rico", 
+        "fips" : "72998", 
+        "sqmi" : null, 
+        "cnty_name" : "Puerto Rico", 
+        "county_st" : "PR", 
+        "county_st_long" : "Puerto Rico", 
+        "ecode" : "56004", 
+        "chapter" : "ARC of Puerto Rico", 
+        "rcode" : "56R04", 
+        "region" : "Puerto Rico Region", 
+        "dcode" : "D25", 
+        "division" : "Southeast and Caribbean Division", 
+        "time_zone" : "Atlantic", 
+        "fema_region" : "II", 
+        "notes" : "PR Governor Issued Shelter In Place/Lockdown Order", 
+        "last_update" : 1585850774000, 
+        "local_health_emg" : "Red", 
+        "dro" : null, 
+        "created_date" : 1585843770670, 
+        "created_user" : "alow_rconline", 
+        "last_edited_date" : 1585850781000, 
+        "last_edited_user" : "alow_rconline", 
+        "globalid" : "ee481f5b-abfc-4ecc-8137-b75f358cd091", 
+        "Shape__Area" : 9960477866.37402, 
+        "Shape__Length" : 745311.979069164
+      }
+    }
+  ]
+}
