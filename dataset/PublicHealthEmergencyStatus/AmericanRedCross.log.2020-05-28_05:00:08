@@ -1,0 +1,419 @@
+ Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+ --Process Begin-- 
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Alabama
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Alabama'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Alaska
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Alaska'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Arizona
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Arizona'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Arkansas
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Arkansas'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/California
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='California'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Colorado
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Colorado'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Connecticut
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Connecticut'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Delaware
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Delaware'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/District Of Columbia
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='District Of Columbia'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Florida
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Florida'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Georgia
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Georgia'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Hawaii
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Hawaii'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Idaho
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Idaho'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Illinois
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Illinois'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Indiana
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Indiana'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Iowa
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Iowa'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Kansas
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Kansas'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Kentucky
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Kentucky'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Louisiana
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Louisiana'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Maine
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Maine'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Maryland
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Maryland'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Massachusetts
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Massachusetts'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Michigan
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Michigan'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Minnesota
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Minnesota'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Mississippi
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Mississippi'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Missouri
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Missouri'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Montana
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Montana'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Nebraska
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Nebraska'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Nevada
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Nevada'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/New Hampshire
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='New Hampshire'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/New Jersey
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='New Jersey'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/New Mexico
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='New Mexico'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/New York
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='New York'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/North Carolina
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='North Carolina'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/North Dakota
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='North Dakota'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Ohio
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Ohio'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Oklahoma
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Oklahoma'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Oregon
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Oregon'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Pennsylvania
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Pennsylvania'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Puerto Rico
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Puerto Rico'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Rhode Island
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Rhode Island'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/South Carolina
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='South Carolina'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/South Dakota
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='South Dakota'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Tennessee
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Tennessee'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Texas
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Texas'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Utah
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Utah'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Vermont
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Vermont'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Virginia
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Virginia'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Washington
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Washington'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/West Virginia
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='West Virginia'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Wisconsin
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Wisconsin'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Wyoming
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Wyoming'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+ --Process Done -- 
