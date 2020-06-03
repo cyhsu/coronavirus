@@ -10,3 +10,11 @@ who_covid_19_situation_reports/who_covid_19_sit_rep_time_series/who_covid_19_sit
 sent 131389 bytes  received 48 bytes  262874.00 bytes/sec
 total size is 95962542  speedup is 730.10
 /Users/cyhsu/dev/virus/dataset/icu/icu.06-03-2020_09:00:05
+[master 46cfcb0e] Update on  06-03-2020_09:00:23
+ 6 files changed, 3493 insertions(+), 1 deletion(-)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.06-03-2020_09:00:04
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-06-03_14:00:06
+ create mode 100644 dataset/cases/texas/Texas.DSHS.06-03-2020_09:00:01
+ create mode 100644 logs/update.log.2020-06-03_14:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
