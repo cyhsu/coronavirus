@@ -1,0 +1,379 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 1, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 1, 
+        "TSA" : "A", 
+        "RAC" : "Panhandle", 
+        "PHR8" : "1", 
+        "Sum_Adult_ICU" : 51, 
+        "Sum_Total_Beds" : 426, 
+        "Sum_Total_Vents_Avail" : 121, 
+        "Sum_Total_Lab_COVID" : 25, 
+        "Sum_Total_Hosp_Beds" : 1038, 
+        "Sum_POP2019EST" : 431473
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 2, 
+        "TSA" : "B", 
+        "RAC" : "BRAC", 
+        "PHR8" : "9/10", 
+        "Sum_Adult_ICU" : 44, 
+        "Sum_Total_Beds" : 435, 
+        "Sum_Total_Vents_Avail" : 131, 
+        "Sum_Total_Lab_COVID" : 14, 
+        "Sum_Total_Hosp_Beds" : 1182, 
+        "Sum_POP2019EST" : 498426
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 3, 
+        "TSA" : "C", 
+        "RAC" : "North Texas", 
+        "PHR8" : "2/3", 
+        "Sum_Adult_ICU" : 21, 
+        "Sum_Total_Beds" : 257, 
+        "Sum_Total_Vents_Avail" : 44, 
+        "Sum_Total_Lab_COVID" : 0, 
+        "Sum_Total_Hosp_Beds" : 572, 
+        "Sum_POP2019EST" : 222285
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 4, 
+        "TSA" : "D", 
+        "RAC" : "Big Country", 
+        "PHR8" : "2/3", 
+        "Sum_Adult_ICU" : 17, 
+        "Sum_Total_Beds" : 376, 
+        "Sum_Total_Vents_Avail" : 46, 
+        "Sum_Total_Lab_COVID" : 1, 
+        "Sum_Total_Hosp_Beds" : 722, 
+        "Sum_POP2019EST" : 304390
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 5, 
+        "TSA" : "E", 
+        "RAC" : "North Central Texas", 
+        "PHR8" : "2/3", 
+        "Sum_Adult_ICU" : 525, 
+        "Sum_Total_Beds" : 3382, 
+        "Sum_Total_Vents_Avail" : 1274, 
+        "Sum_Total_Lab_COVID" : 765, 
+        "Sum_Total_Hosp_Beds" : 14383, 
+        "Sum_POP2019EST" : 7888098
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 6, 
+        "TSA" : "F", 
+        "RAC" : "Northeast Texas", 
+        "PHR8" : "4/5n", 
+        "Sum_Adult_ICU" : 90, 
+        "Sum_Total_Beds" : 787, 
+        "Sum_Total_Vents_Avail" : 77, 
+        "Sum_Total_Lab_COVID" : 26, 
+        "Sum_Total_Hosp_Beds" : 1304, 
+        "Sum_POP2019EST" : 279198
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 7, 
+        "TSA" : "G", 
+        "RAC" : "Piney Woods", 
+        "PHR8" : "4/5n", 
+        "Sum_Adult_ICU" : 68, 
+        "Sum_Total_Beds" : 515, 
+        "Sum_Total_Vents_Avail" : 237, 
+        "Sum_Total_Lab_COVID" : 60, 
+        "Sum_Total_Hosp_Beds" : 1927, 
+        "Sum_POP2019EST" : 970139
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 8, 
+        "TSA" : "H", 
+        "RAC" : "Deep East Texas", 
+        "PHR8" : "4/5n", 
+        "Sum_Adult_ICU" : 16, 
+        "Sum_Total_Beds" : 228, 
+        "Sum_Total_Vents_Avail" : 113, 
+        "Sum_Total_Lab_COVID" : 26, 
+        "Sum_Total_Hosp_Beds" : 530, 
+        "Sum_POP2019EST" : 279467
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 9, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 9, 
+        "TSA" : "I", 
+        "RAC" : "Border", 
+        "PHR8" : "9/10", 
+        "Sum_Adult_ICU" : 64, 
+        "Sum_Total_Beds" : 563, 
+        "Sum_Total_Vents_Avail" : 278, 
+        "Sum_Total_Lab_COVID" : 97, 
+        "Sum_Total_Hosp_Beds" : 1805, 
+        "Sum_POP2019EST" : 861432
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 10, 
+        "TSA" : "J", 
+        "RAC" : "Texas \"J\"", 
+        "PHR8" : "9/10", 
+        "Sum_Adult_ICU" : 43, 
+        "Sum_Total_Beds" : 446, 
+        "Sum_Total_Vents_Avail" : 214, 
+        "Sum_Total_Lab_COVID" : 25, 
+        "Sum_Total_Hosp_Beds" : 970, 
+        "Sum_POP2019EST" : 481218
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 11, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 11, 
+        "TSA" : "K", 
+        "RAC" : "Concho Valley", 
+        "PHR8" : "9/10", 
+        "Sum_Adult_ICU" : 10, 
+        "Sum_Total_Beds" : 180, 
+        "Sum_Total_Vents_Avail" : 35, 
+        "Sum_Total_Lab_COVID" : 2, 
+        "Sum_Total_Hosp_Beds" : 425, 
+        "Sum_POP2019EST" : 168836
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 12, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 12, 
+        "TSA" : "L", 
+        "RAC" : "Central Texas", 
+        "PHR8" : "7", 
+        "Sum_Adult_ICU" : 20, 
+        "Sum_Total_Beds" : 277, 
+        "Sum_Total_Vents_Avail" : 125, 
+        "Sum_Total_Lab_COVID" : 14, 
+        "Sum_Total_Hosp_Beds" : 1004, 
+        "Sum_POP2019EST" : 490755
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 13, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 13, 
+        "TSA" : "M", 
+        "RAC" : "Heart of Texas", 
+        "PHR8" : "7", 
+        "Sum_Adult_ICU" : 16, 
+        "Sum_Total_Beds" : 247, 
+        "Sum_Total_Vents_Avail" : 56, 
+        "Sum_Total_Lab_COVID" : 5, 
+        "Sum_Total_Hosp_Beds" : 609, 
+        "Sum_POP2019EST" : 352301
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 14, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 14, 
+        "TSA" : "N", 
+        "RAC" : "Brazos Valley", 
+        "PHR8" : "7", 
+        "Sum_Adult_ICU" : 15, 
+        "Sum_Total_Beds" : 186, 
+        "Sum_Total_Vents_Avail" : 52, 
+        "Sum_Total_Lab_COVID" : 27, 
+        "Sum_Total_Hosp_Beds" : 496, 
+        "Sum_POP2019EST" : 361522
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 15, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 15, 
+        "TSA" : "O", 
+        "RAC" : "Capital Area Trauma", 
+        "PHR8" : "7", 
+        "Sum_Adult_ICU" : 125, 
+        "Sum_Total_Beds" : 910, 
+        "Sum_Total_Vents_Avail" : 367, 
+        "Sum_Total_Lab_COVID" : 137, 
+        "Sum_Total_Hosp_Beds" : 3250, 
+        "Sum_POP2019EST" : 2321636
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 16, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 16, 
+        "TSA" : "P", 
+        "RAC" : "Southwest Texas RAC", 
+        "PHR8" : "8", 
+        "Sum_Adult_ICU" : 196, 
+        "Sum_Total_Beds" : 1534, 
+        "Sum_Total_Vents_Avail" : 645, 
+        "Sum_Total_Lab_COVID" : 185, 
+        "Sum_Total_Hosp_Beds" : 5799, 
+        "Sum_POP2019EST" : 2840955
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 17, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 17, 
+        "TSA" : "Q", 
+        "RAC" : "Southeast Texas", 
+        "PHR8" : "6/5s", 
+        "Sum_Adult_ICU" : 247, 
+        "Sum_Total_Beds" : 2675, 
+        "Sum_Total_Vents_Avail" : 1277, 
+        "Sum_Total_Lab_COVID" : 795, 
+        "Sum_Total_Hosp_Beds" : 12458, 
+        "Sum_POP2019EST" : 6371536
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 18, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 18, 
+        "TSA" : "R", 
+        "RAC" : "East Texas Gulf Coast", 
+        "PHR8" : "6/5s", 
+        "Sum_Adult_ICU" : 29, 
+        "Sum_Total_Beds" : 460, 
+        "Sum_Total_Vents_Avail" : 227, 
+        "Sum_Total_Lab_COVID" : 157, 
+        "Sum_Total_Hosp_Beds" : 1822, 
+        "Sum_POP2019EST" : 1301086
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 19, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 19, 
+        "TSA" : "S", 
+        "RAC" : "Golden Crescent", 
+        "PHR8" : "8", 
+        "Sum_Adult_ICU" : 17, 
+        "Sum_Total_Beds" : 204, 
+        "Sum_Total_Vents_Avail" : 45, 
+        "Sum_Total_Lab_COVID" : 11, 
+        "Sum_Total_Hosp_Beds" : 542, 
+        "Sum_POP2019EST" : 157592
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 20, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 20, 
+        "TSA" : "T", 
+        "RAC" : "Seven Flags", 
+        "PHR8" : "11", 
+        "Sum_Adult_ICU" : 9, 
+        "Sum_Total_Beds" : 95, 
+        "Sum_Total_Vents_Avail" : 70, 
+        "Sum_Total_Lab_COVID" : 10, 
+        "Sum_Total_Hosp_Beds" : 384, 
+        "Sum_POP2019EST" : 300996
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 21, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 21, 
+        "TSA" : "U", 
+        "RAC" : "Coastal Bend", 
+        "PHR8" : "11", 
+        "Sum_Adult_ICU" : 10, 
+        "Sum_Total_Beds" : 246, 
+        "Sum_Total_Vents_Avail" : 166, 
+        "Sum_Total_Lab_COVID" : 14, 
+        "Sum_Total_Hosp_Beds" : 1197, 
+        "Sum_POP2019EST" : 595717
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 22, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 22, 
+        "TSA" : "V", 
+        "RAC" : "Lower Rio Grande Valley", 
+        "PHR8" : "11", 
+        "Sum_Adult_ICU" : 42, 
+        "Sum_Total_Beds" : 564, 
+        "Sum_Total_Vents_Avail" : 269, 
+        "Sum_Total_Lab_COVID" : 122, 
+        "Sum_Total_Hosp_Beds" : 2425, 
+        "Sum_POP2019EST" : 1401144
+      }
+    }
+  ]
+}
