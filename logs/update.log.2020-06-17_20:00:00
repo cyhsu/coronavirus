@@ -7,3 +7,11 @@ building file list ... done
 sent 9241 bytes  received 20 bytes  18522.00 bytes/sec
 total size is 103374265  speedup is 11162.32
 /Users/cyhsu/dev/virus/dataset/icu/icu.06-17-2020_15:00:05
+[master 3f1c0f1e] Update on  06-17-2020_15:00:21
+ 5 files changed, 453 insertions(+)
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-06-17_20:00:06
+ delete mode 100644 dataset/cases/texas/Excel/06-17-2020/~$TexasCOVID19DailyCountyCaseCountData.xlsx
+ create mode 100644 dataset/cases/texas/Texas.DSHS.06-17-2020_15:00:00
+ create mode 100644 logs/update.log.2020-06-17_20:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
