@@ -1,0 +1,313 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 1, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 1, 
+        "Sum_Adult_ICU" : 43, 
+        "Sum_Total_Beds" : 356, 
+        "Sum_Total_Vents_Avail" : 106, 
+        "Sum_Total_Lab_COVID" : 31, 
+        "Sum_Total_Hosp_Beds" : 1002, 
+        "Sum_POP2019EST" : 431473
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 2, 
+        "Sum_Adult_ICU" : 23, 
+        "Sum_Total_Beds" : 391, 
+        "Sum_Total_Vents_Avail" : 134, 
+        "Sum_Total_Lab_COVID" : 86, 
+        "Sum_Total_Hosp_Beds" : 1218, 
+        "Sum_POP2019EST" : 498426
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 3, 
+        "Sum_Adult_ICU" : 12, 
+        "Sum_Total_Beds" : 264, 
+        "Sum_Total_Vents_Avail" : 43, 
+        "Sum_Total_Lab_COVID" : 21, 
+        "Sum_Total_Hosp_Beds" : 558, 
+        "Sum_POP2019EST" : 222285
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 4, 
+        "Sum_Adult_ICU" : 17, 
+        "Sum_Total_Beds" : 307, 
+        "Sum_Total_Vents_Avail" : 51, 
+        "Sum_Total_Lab_COVID" : 33, 
+        "Sum_Total_Hosp_Beds" : 708, 
+        "Sum_POP2019EST" : 304390
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 5, 
+        "Sum_Adult_ICU" : 369, 
+        "Sum_Total_Beds" : 2907, 
+        "Sum_Total_Vents_Avail" : 1266, 
+        "Sum_Total_Lab_COVID" : 1607, 
+        "Sum_Total_Hosp_Beds" : 13533, 
+        "Sum_POP2019EST" : 7888098
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 6, 
+        "Sum_Adult_ICU" : 98, 
+        "Sum_Total_Beds" : 770, 
+        "Sum_Total_Vents_Avail" : 73, 
+        "Sum_Total_Lab_COVID" : 51, 
+        "Sum_Total_Hosp_Beds" : 1220, 
+        "Sum_POP2019EST" : 279198
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 7, 
+        "Sum_Adult_ICU" : 97, 
+        "Sum_Total_Beds" : 533, 
+        "Sum_Total_Vents_Avail" : 241, 
+        "Sum_Total_Lab_COVID" : 121, 
+        "Sum_Total_Hosp_Beds" : 1807, 
+        "Sum_POP2019EST" : 970139
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 8, 
+        "Sum_Adult_ICU" : 10, 
+        "Sum_Total_Beds" : 247, 
+        "Sum_Total_Vents_Avail" : 98, 
+        "Sum_Total_Lab_COVID" : 46, 
+        "Sum_Total_Hosp_Beds" : 535, 
+        "Sum_POP2019EST" : 279467
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 9, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 9, 
+        "Sum_Adult_ICU" : 54, 
+        "Sum_Total_Beds" : 399, 
+        "Sum_Total_Vents_Avail" : 245, 
+        "Sum_Total_Lab_COVID" : 218, 
+        "Sum_Total_Hosp_Beds" : 1698, 
+        "Sum_POP2019EST" : 861432
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 10, 
+        "Sum_Adult_ICU" : 28, 
+        "Sum_Total_Beds" : 530, 
+        "Sum_Total_Vents_Avail" : 211, 
+        "Sum_Total_Lab_COVID" : 90, 
+        "Sum_Total_Hosp_Beds" : 1263, 
+        "Sum_POP2019EST" : 481218
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 11, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 11, 
+        "Sum_Adult_ICU" : 9, 
+        "Sum_Total_Beds" : 185, 
+        "Sum_Total_Vents_Avail" : 38, 
+        "Sum_Total_Lab_COVID" : 28, 
+        "Sum_Total_Hosp_Beds" : 418, 
+        "Sum_POP2019EST" : 168836
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 12, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 12, 
+        "Sum_Adult_ICU" : 18, 
+        "Sum_Total_Beds" : 315, 
+        "Sum_Total_Vents_Avail" : 122, 
+        "Sum_Total_Lab_COVID" : 61, 
+        "Sum_Total_Hosp_Beds" : 1005, 
+        "Sum_POP2019EST" : 490755
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 13, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 13, 
+        "Sum_Adult_ICU" : 21, 
+        "Sum_Total_Beds" : 205, 
+        "Sum_Total_Vents_Avail" : 56, 
+        "Sum_Total_Lab_COVID" : 31, 
+        "Sum_Total_Hosp_Beds" : 546, 
+        "Sum_POP2019EST" : 352301
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 14, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 14, 
+        "Sum_Adult_ICU" : 14, 
+        "Sum_Total_Beds" : 193, 
+        "Sum_Total_Vents_Avail" : 44, 
+        "Sum_Total_Lab_COVID" : 52, 
+        "Sum_Total_Hosp_Beds" : 501, 
+        "Sum_POP2019EST" : 361522
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 15, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 15, 
+        "Sum_Adult_ICU" : 79, 
+        "Sum_Total_Beds" : 813, 
+        "Sum_Total_Vents_Avail" : 358, 
+        "Sum_Total_Lab_COVID" : 485, 
+        "Sum_Total_Hosp_Beds" : 3157, 
+        "Sum_POP2019EST" : 2321636
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 16, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 16, 
+        "Sum_Adult_ICU" : 110, 
+        "Sum_Total_Beds" : 830, 
+        "Sum_Total_Vents_Avail" : 515, 
+        "Sum_Total_Lab_COVID" : 1313, 
+        "Sum_Total_Hosp_Beds" : 5005, 
+        "Sum_POP2019EST" : 2840955
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 17, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 17, 
+        "Sum_Adult_ICU" : 154, 
+        "Sum_Total_Beds" : 2429, 
+        "Sum_Total_Vents_Avail" : 1192, 
+        "Sum_Total_Lab_COVID" : 2656, 
+        "Sum_Total_Hosp_Beds" : 12572, 
+        "Sum_POP2019EST" : 6371536
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 18, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 18, 
+        "Sum_Adult_ICU" : 6, 
+        "Sum_Total_Beds" : 299, 
+        "Sum_Total_Vents_Avail" : 166, 
+        "Sum_Total_Lab_COVID" : 364, 
+        "Sum_Total_Hosp_Beds" : 1736, 
+        "Sum_POP2019EST" : 1301086
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 19, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 19, 
+        "Sum_Adult_ICU" : 9, 
+        "Sum_Total_Beds" : 95, 
+        "Sum_Total_Vents_Avail" : 45, 
+        "Sum_Total_Lab_COVID" : 108, 
+        "Sum_Total_Hosp_Beds" : 469, 
+        "Sum_POP2019EST" : 157592
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 20, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 20, 
+        "Sum_Adult_ICU" : 5, 
+        "Sum_Total_Beds" : 64, 
+        "Sum_Total_Vents_Avail" : 46, 
+        "Sum_Total_Lab_COVID" : 93, 
+        "Sum_Total_Hosp_Beds" : 398, 
+        "Sum_POP2019EST" : 300996
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 21, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 21, 
+        "Sum_Adult_ICU" : 7, 
+        "Sum_Total_Beds" : 353, 
+        "Sum_Total_Vents_Avail" : 117, 
+        "Sum_Total_Lab_COVID" : 249, 
+        "Sum_Total_Hosp_Beds" : 1405, 
+        "Sum_POP2019EST" : 595717
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 22, 
+      "geometry" : null, 
+      "properties" : {
+        "OBJECTID_1" : 22, 
+        "Sum_Adult_ICU" : 43, 
+        "Sum_Total_Beds" : 367, 
+        "Sum_Total_Vents_Avail" : 133, 
+        "Sum_Total_Lab_COVID" : 954, 
+        "Sum_Total_Hosp_Beds" : 2926, 
+        "Sum_POP2019EST" : 1401144
+      }
+    }
+  ]
+}
