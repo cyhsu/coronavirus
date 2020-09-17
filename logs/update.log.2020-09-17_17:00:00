@@ -9,3 +9,10 @@ README.md
 sent 35602 bytes  received 42 bytes  71288.00 bytes/sec
 total size is 260040651  speedup is 7295.50
 /Users/cyhsu/dev/virus/dataset/icu/icu.09-17-2020_12:00:04
+[master 4efa7317] Update on  09-17-2020_12:00:24
+ 6 files changed, 3684 insertions(+), 1 deletion(-)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.09-17-2020_12:00:02
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-09-17_17:00:05
+ create mode 100644 dataset/cases/texas/Texas.DSHS.09-17-2020_12:00:00
+ create mode 100644 logs/update.log.2020-09-17_17:00:00
+ 
