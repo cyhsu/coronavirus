@@ -24,3 +24,23 @@ csse_covid_19_data/csse_covid_19_daily_reports/09-27-2020.csv
 sent 7641126 bytes  received 356 bytes  15282964.00 bytes/sec
 total size is 267003608  speedup is 34.94
 /Users/cyhsu/dev/virus/dataset/icu/icu.09-30-2020_09:00:04
+[master ff0991de] Update on  09-30-2020_09:00:19
+ 20 files changed, 63033 insertions(+), 59332 deletions(-)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-13-2020.csv (92%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-16-2020.csv (93%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-17-2020.csv (93%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-18-2020.csv (93%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-19-2020.csv (93%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-20-2020.csv (93%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-21-2020.csv (93%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-22-2020.csv (93%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-23-2020.csv (93%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-24-2020.csv (92%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-25-2020.csv (92%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-26-2020.csv (92%)
+ rewrite dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/09-27-2020.csv (92%)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.09-30-2020_09:00:03
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-09-30_14:00:05
+ create mode 100644 dataset/cases/texas/Texas.DSHS.09-30-2020_09:00:00
+ create mode 100644 logs/update.log.2020-09-30_14:00:00
+ 
