@@ -72,3 +72,10 @@ csse_covid_19_data/csse_covid_19_time_series/Errata.csv
 sent 32802683 bytes  received 1396 bytes  21869386.00 bytes/sec
 total size is 271726586  speedup is 8.28
 /Users/cyhsu/dev/virus/dataset/icu/icu.10-08-2020_16:00:07
+[master 257ddd9c] Update on  10-08-2020_16:00:28
+ 67 files changed, 3815 insertions(+), 63 deletions(-)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.10-08-2020_16:00:03
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-10-08_21:00:09
+ create mode 100644 dataset/cases/texas/Texas.DSHS.10-08-2020_16:00:01
+ create mode 100644 logs/update.log.2020-10-08_21:00:00
+ 
