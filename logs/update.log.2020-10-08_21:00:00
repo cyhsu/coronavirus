@@ -1,0 +1,74 @@
+/Users/cyhsu/dev/virus/dataset/cases/Texas/Texas.DSHS.10-08-2020_16:00:01
+File "./county_death/Texas_DSHS_county_death.10-08-2020_16:00:02" are the same with the older one. Keep the oldest one.
+File "./tsa_BedAvailability/Texas_DSHS_tsa_BedAvailability.10-08-2020_16:00:03" are the same with the older one. Keep the oldest one.
+Johns_Hopkins.10-08-2020_14:00:03 Johns_Hopkins.10-08-2020_16:00:03
+Files are not the same. Record updates.
+building file list ... done
+csse_covid_19_data/csse_covid_19_daily_reports/
+csse_covid_19_data/csse_covid_19_daily_reports/07-21-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/07-26-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/07-31-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-01-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-04-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-05-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-07-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-08-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-09-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-11-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-12-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-13-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-16-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-17-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-18-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-19-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-20-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-22-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-24-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-26-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-27-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-28-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-29-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-30-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/08-31-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-01-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-02-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-03-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-04-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-05-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-06-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-07-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-08-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-09-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-10-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-11-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-12-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-13-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-14-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-15-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-16-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-17-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-18-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-19-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-20-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-21-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-22-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-23-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-24-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-25-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-26-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-27-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-28-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-29-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/09-30-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/10-01-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/10-02-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/10-03-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/10-04-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/10-05-2020.csv
+csse_covid_19_data/csse_covid_19_daily_reports/10-06-2020.csv
+csse_covid_19_data/csse_covid_19_time_series/
+csse_covid_19_data/csse_covid_19_time_series/Errata.csv
+
+sent 32802683 bytes  received 1396 bytes  21869386.00 bytes/sec
+total size is 271726586  speedup is 8.28
+/Users/cyhsu/dev/virus/dataset/icu/icu.10-08-2020_16:00:07
