@@ -18,3 +18,16 @@ csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_globa
 sent 6605917 bytes  received 192 bytes  13212218.00 bytes/sec
 total size is 272314371  speedup is 41.22
 /Users/cyhsu/dev/virus/dataset/icu/icu.10-09-2020_00:00:13
+[master e900a53b] Update on  10-09-2020_00:00:33
+ 16 files changed, 15583 insertions(+), 7470 deletions(-)
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/10-08-2020.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/10-08-2020.csv
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.10-09-2020_00:00:12
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-10-09_05:00:14
+ create mode 100644 dataset/cases/texas/Excel/10-09-2020/COVID-19CumulativeTestTotalsbyCounty.xlsx
+ create mode 100644 dataset/cases/texas/Excel/10-09-2020/TexasCOVID19CaseCountData.xlsx
+ create mode 100644 dataset/cases/texas/Excel/10-09-2020/TexasCOVID19DailyCountyCaseCountData.xlsx
+ create mode 100644 dataset/cases/texas/Excel/10-09-2020/TexasCOVID19DailyCountyFatalityCountData.xlsx
+ create mode 100644 dataset/cases/texas/Texas.DSHS.10-09-2020_00:00:00
+ create mode 100644 logs/update.log.2020-10-09_05:00:00
+ 
