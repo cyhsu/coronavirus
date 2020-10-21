@@ -7,3 +7,9 @@ building file list ... done
 sent 18088 bytes  received 20 bytes  36216.00 bytes/sec
 total size is 279417664  speedup is 15430.62
 /Users/cyhsu/dev/virus/dataset/icu/icu.10-21-2020_06:00:06
+[master eb66c090] Update on  10-21-2020_06:00:31
+ 4 files changed, 452 insertions(+)
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-10-21_11:00:07
+ create mode 100644 dataset/cases/texas/Texas.DSHS.10-21-2020_06:00:00
+ create mode 100644 logs/update.log.2020-10-21_11:00:00
+ 
