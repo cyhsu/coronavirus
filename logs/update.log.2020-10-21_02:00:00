@@ -11,3 +11,10 @@ csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv
 sent 471900 bytes  received 70 bytes  943940.00 bytes/sec
 total size is 278827261  speedup is 590.77
 /Users/cyhsu/dev/virus/dataset/icu/icu.10-20-2020_21:00:06
+[master 75847491] Update on  10-20-2020_21:00:27
+ 7 files changed, 3695 insertions(+), 3 deletions(-)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.10-20-2020_21:00:04
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-10-21_02:00:07
+ create mode 100644 dataset/cases/texas/Texas.DSHS.10-20-2020_21:00:01
+ create mode 100644 logs/update.log.2020-10-21_02:00:00
+ 
