@@ -9,3 +9,10 @@ csse_covid_19_data/csse_covid_19_time_series/Errata.csv
 sent 79667 bytes  received 48 bytes  159430.00 bytes/sec
 total size is 282962843  speedup is 3549.68
 /Users/cyhsu/dev/virus/dataset/icu/icu.10-27-2020_16:00:04
+[master 75947ca7] Update on  10-27-2020_16:00:19
+ 5 files changed, 529 insertions(+), 70 deletions(-)
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-10-27_21:00:05
+ create mode 100644 dataset/cases/texas/Texas.DSHS.10-27-2020_16:00:00
+ create mode 100644 logs/update.log.2020-10-27_21:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
