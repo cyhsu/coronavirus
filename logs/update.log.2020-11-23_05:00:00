@@ -85,3 +85,10 @@ sent 27373157 bytes  received 1660 bytes  54749634.00 bytes/sec
 total size is 297634615  speedup is 10.87
 rsync warning: some files vanished before they could be transferred (code 24) at /AppleInternal/BuildRoot/Library/Caches/com.apple.xbs/Sources/rsync/rsync-54.120.1/rsync/main.c(996) [sender=2.6.9]
 /Users/cyhsu/dev/virus/dataset/icu/icu.11-22-2020_23:00:04
+[master e38632c5e] Update on  11-22-2020_23:00:19
+ 78 files changed, 668 insertions(+), 138 deletions(-)
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2020-11-23_05:00:06
+ create mode 100644 dataset/cases/texas/Texas.DSHS.11-22-2020_23:00:01
+ create mode 100644 logs/update.log.2020-11-23_05:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
