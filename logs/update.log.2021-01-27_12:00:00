@@ -1,0 +1,10 @@
+/Users/cyhsu/dev/virus/dataset/cases/Texas/Texas.DSHS.01-27-2021_06:00:00
+File "./county_death/Texas_DSHS_county_death.01-27-2021_06:00:01" are the same with the older one. Keep the oldest one.
+File "./tsa_BedAvailability/Texas_DSHS_tsa_BedAvailability.01-27-2021_06:00:02" are the same with the older one. Keep the oldest one.
+Johns_Hopkins.01-27-2021_05:00:02 Johns_Hopkins.01-27-2021_06:00:02
+Files are not the same. Record updates.
+building file list ... done
+
+sent 21252 bytes  received 20 bytes  42544.00 bytes/sec
+total size is 338260153  speedup is 15901.66
+/Users/cyhsu/dev/virus/dataset/icu/icu.01-27-2021_06:00:03
