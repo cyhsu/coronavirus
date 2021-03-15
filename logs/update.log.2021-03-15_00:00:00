@@ -47,3 +47,11 @@ csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.c
 sent 4512722 bytes  received 862 bytes  9027168.00 bytes/sec
 total size is 366258197  speedup is 81.15
 /Users/cyhsu/dev/virus/dataset/icu/icu.03-14-2021_19:00:04
+[master 0d1f6f8c0] Update on  03-14-2021_19:00:26
+ 43 files changed, 3843 insertions(+), 108 deletions(-)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.03-14-2021_19:00:03
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-03-15_00:00:05
+ create mode 100644 dataset/cases/texas/Texas.DSHS.03-14-2021_19:00:01
+ create mode 100644 logs/update.log.2021-03-15_00:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
