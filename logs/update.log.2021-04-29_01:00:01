@@ -8,3 +8,12 @@ building file list ... done
 sent 24557 bytes  received 20 bytes  49154.00 bytes/sec
 total size is 395062925  speedup is 16074.50
 /Users/cyhsu/dev/virus/dataset/icu/icu.04-28-2021_20:00:07
+[master fa5240120] Update on  04-28-2021_20:00:27
+ 6 files changed, 3718 insertions(+)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.04-28-2021_20:00:04
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-04-29_01:00:08
+ create mode 100644 dataset/cases/texas/Texas.DSHS.04-28-2021_20:00:01
+ create mode 100644 dataset/icu/icu.04-28-2021_20:00:07
+ create mode 100644 logs/update.log.2021-04-29_01:00:01
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
