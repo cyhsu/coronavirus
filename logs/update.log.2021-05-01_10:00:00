@@ -8,3 +8,7 @@ building file list ... done
 sent 24703 bytes  received 20 bytes  49446.00 bytes/sec
 total size is 396862490  speedup is 16052.36
 /Users/cyhsu/dev/virus/dataset/icu/icu.05-01-2021_05:18:59
+[master 09194dc4a] Update on  05-01-2021_05:19:18
+ 3 files changed, 103 insertions(+)
+ delete mode 100644 dataset/PublicHealthEmergencyStatus/states/Rhode Island/AmericanRedCross.Rhode Island.05-01-2021_05:19:12
+ 
