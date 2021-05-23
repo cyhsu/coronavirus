@@ -10,3 +10,12 @@ csse_covid_19_data/README.md
 sent 118444 bytes  received 48 bytes  236984.00 bytes/sec
 total size is 409974700  speedup is 3459.94
 /Users/cyhsu/dev/virus/dataset/icu/icu.05-23-2021_15:00:09
+[master b40a03f03] Update on  05-23-2021_15:00:29
+ 7 files changed, 3720 insertions(+)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-23-2021_15:00:03
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-05-23_20:00:10
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-23-2021_15:00:00
+ create mode 100644 dataset/icu/icu.05-23-2021_15:00:09
+ create mode 100644 logs/update.log.2021-05-23_20:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
