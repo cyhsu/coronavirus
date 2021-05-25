@@ -1,0 +1,14 @@
+ Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+ --Process Begin-- 
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Alabama
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Alabama'&outFields=*&ReturnGeometry=false&f=pgeojson
+        Files are the same. Keep the oldest one.
+        Current Dir (Parent): /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states
+
+
+    Current Dir         : /Users/cyhsu/dev/virus/dataset/PublicHealthEmergencyStatus/states/Alaska
+    --- last update file & given file name ---
+    --- Construct the download URL ---
+        URL: https://services.arcgis.com/pGfbNJoYypmNq86F/arcgis/rest/services/COVID19_Public_Health_Status_by_County/FeatureServer/0/query?where=state_name='Alaska'&outFields=*&ReturnGeometry=false&f=pgeojson
