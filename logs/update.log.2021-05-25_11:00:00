@@ -16,3 +16,8 @@ csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.c
 sent 7749372 bytes  received 148 bytes  15499040.00 bytes/sec
 total size is 411169086  speedup is 53.06
 /Users/cyhsu/dev/virus/dataset/icu/icu.05-25-2021_06:05:18
+[master 8b905b605] Update on  05-25-2021_11:15:39
+ 3 files changed, 406 insertions(+)
+ delete mode 100644 dataset/PublicHealthEmergencyStatus/states/Arizona/AmericanRedCross.Arizona.05-25-2021_09:31:58
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
