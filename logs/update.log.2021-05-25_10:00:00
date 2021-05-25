@@ -8,3 +8,45 @@ building file list ... done
 sent 26088 bytes  received 20 bytes  52216.00 bytes/sec
 total size is 411169086  speedup is 15748.78
 /Users/cyhsu/dev/virus/dataset/icu/icu.05-25-2021_06:48:22
+[master bfae9ef33] Update on  05-25-2021_10:15:18
+ 44 files changed, 20510 insertions(+), 56 deletions(-)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-25-2021_06:05:17
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-25-2021_06:48:21
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-25-2021_07:00:02
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-25-2021_08:00:03
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-25-2021_09:00:03
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.05-25-2021_10:00:04
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-05-25_11:05:20
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-05-25_11:48:23
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-05-25_12:00:08
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-05-25_13:00:08
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-05-25_14:00:06
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-05-25_15:00:07
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Alabama/AmericanRedCross.Alabama.05-25-2021_06:48:23
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Alabama/AmericanRedCross.Alabama.05-25-2021_08:00:08
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Alabama/AmericanRedCross.Alabama.05-25-2021_09:00:06
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Alabama/AmericanRedCross.Alabama.05-25-2021_10:00:07
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Alaska/AmericanRedCross.Alaska.05-25-2021_08:31:41
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Alaska/AmericanRedCross.Alaska.05-25-2021_08:43:26
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Alaska/AmericanRedCross.Alaska.05-25-2021_09:43:29
+ create mode 100644 dataset/PublicHealthEmergencyStatus/states/Arizona/AmericanRedCross.Arizona.05-25-2021_09:31:58
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-25-2021_05:00:00
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-25-2021_06:00:00
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-25-2021_07:00:00
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-25-2021_08:00:01
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-25-2021_09:00:00
+ create mode 100644 dataset/cases/texas/Texas.DSHS.05-25-2021_10:00:01
+ create mode 100644 dataset/icu/icu.05-25-2021_06:05:18
+ create mode 100644 dataset/icu/icu.05-25-2021_06:48:22
+ create mode 100644 dataset/icu/icu.05-25-2021_07:00:07
+ create mode 100644 dataset/icu/icu.05-25-2021_08:00:07
+ create mode 100644 dataset/icu/icu.05-25-2021_09:00:05
+ create mode 100644 dataset/icu/icu.05-25-2021_10:00:06
+ create mode 100644 logs/update.log.2021-05-25_10:00:00
+ create mode 100644 logs/update.log.2021-05-25_11:00:00
+ create mode 100644 logs/update.log.2021-05-25_12:00:00
+ create mode 100644 logs/update.log.2021-05-25_13:00:00
+ create mode 100644 logs/update.log.2021-05-25_14:00:00
+ create mode 100644 logs/update.log.2021-05-25_15:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
