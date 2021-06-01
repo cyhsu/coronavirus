@@ -331,6 +331,7 @@ Date: Location | Change | Reason/Other notes | Source
 * May 13, 2021: Alabama, US | Inclusion of 306 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 14, 2021: Alabama, US | Inclusion of 4,877 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
 * May 15, 2021: Alabama, US | Inclusion of 1,235 backlogged cases | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4087)
+* May 18, 2021: United Kingdom | Reduction of 4,776 false positive lateral flow tests | [Source](https://coronavirus.data.gov.uk/details/whats-new) (Note for May 18)
 * May 18, 2021: Missouri, US | Weekly death certificate review resulted in a large spike in deaths, particularly in rural counties | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4099)
 * May 19, 2021: New Castle County, Delaware, US | Large spike in cases due to reporting delays with multiple laboratories | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4121)
 * May 20, 2021: Laramie County, Wyoming, US | 100+ case backlog due to data transfer issues with a health provider | See [announcement](https://github.com/CSSEGISandData/COVID-19/issues/4136)
@@ -377,6 +378,7 @@ As the pandemic has progressed, several locations have altered their reporting s
 United States
 * Alaska: Providing data Monday-Friday, excluding holidays.
 * Conneticut: Providing data Monday-Friday.
+* District of Columbia: Providing data Monday-Friday.
 * Florida: Did not update on weekend for October 10-11.
 * Guam: Providing data Monday-Friday.
 * Idaho: Providing data Monday-Friday.
