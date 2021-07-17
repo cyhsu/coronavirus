@@ -18,3 +18,18 @@ csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_globa
 sent 14952212 bytes  received 192 bytes  29904808.00 bytes/sec
 total size is 443117406  speedup is 29.64
 /Users/cyhsu/dev/virus/dataset/icu/icu.07-17-2021_00:00:10
+[master 03e49a215] Update on  07-17-2021_00:00:31
+ 17 files changed, 15695 insertions(+), 7511 deletions(-)
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/07-16-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/07-16-2021.csv
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.07-17-2021_00:00:09
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-07-17_05:00:12
+ create mode 100644 dataset/cases/texas/Excel/07-17-2021/COVID-19CumulativeTestTotalsbyCounty.xlsx
+ create mode 100644 dataset/cases/texas/Excel/07-17-2021/TexasCOVID19CaseCountData.xlsx
+ create mode 100644 dataset/cases/texas/Excel/07-17-2021/TexasCOVID19DailyCountyCaseCountData.xlsx
+ create mode 100644 dataset/cases/texas/Excel/07-17-2021/TexasCOVID19DailyCountyFatalityCountData.xlsx
+ create mode 100644 dataset/cases/texas/Texas.DSHS.07-17-2021_00:00:00
+ create mode 100644 dataset/icu/icu.07-17-2021_00:00:10
+ create mode 100644 logs/update.log.2021-07-17_05:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
