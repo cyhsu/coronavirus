@@ -21240,3 +21240,19 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 08/15/2021,time_series_covid19_deaths_global.csv,France,08/14/2021,111324,111448,Correct stale France deaths data
 08/17/2021,time_series_covid19_confirmed_global.csv,Australia,08/16/2021,152,169,Correct Australia confirmed data
 08/17/2021,time_series_covid19_confirmed_global.csv,US,08/16/2021,36888921,36888952,Correct US confirmed data
+08/19/2021,time_series_covid19_deaths_US.csv,"Rockland, New York, US",08/10/2021,758,760,"Update Rockland, NY death data"
+08/19/2021,time_series_covid19_deaths_US.csv,"Rockland, New York, US",08/11/2021,758,760,"Update Rockland, NY death data"
+08/19/2021,time_series_covid19_deaths_US.csv,"Rockland, New York, US",08/12/2021,758,760,"Update Rockland, NY death data"
+08/19/2021,time_series_covid19_deaths_US.csv,"Rockland, New York, US",08/13/2021,758,760,"Update Rockland, NY death data"
+08/19/2021,time_series_covid19_deaths_US.csv,"Rockland, New York, US",08/14/2021,758,760,"Update Rockland, NY death data"
+08/19/2021,time_series_covid19_deaths_US.csv,"Rockland, New York, US",08/15/2021,970,760,"Update Rockland, NY death data"
+08/19/2021,time_series_covid19_deaths_US.csv,"Rockland, New York, US",08/16/2021,970,760,"Update Rockland, NY death data"
+08/19/2021,time_series_covid19_deaths_US.csv,"Rockland, New York, US",08/17/2021,970,760,"Update Rockland, NY death data"
+08/19/2021,time_series_covid19_deaths_global.csv,US,08/10/2021,618171,618173,"Correct New York, US deaths data"
+08/19/2021,time_series_covid19_deaths_global.csv,US,08/11/2021,618513,618515,"Correct New York, US deaths data"
+08/19/2021,time_series_covid19_deaths_global.csv,US,08/12/2021,619127,619129,"Correct New York, US deaths data"
+08/19/2021,time_series_covid19_deaths_global.csv,US,08/13/2021,621016,621018,"Correct New York, US deaths data"
+08/19/2021,time_series_covid19_deaths_global.csv,US,08/14/2021,621253,621255,"Correct New York, US deaths data"
+08/19/2021,time_series_covid19_deaths_global.csv,US,08/15/2021,621635,621425,"Correct New York, US deaths data"
+08/19/2021,time_series_covid19_deaths_global.csv,US,08/16/2021,622321,622111,"Correct New York, US deaths data"
+08/19/2021,time_series_covid19_deaths_global.csv,US,08/17/2021,623322,623112,"Correct New York, US deaths data"
