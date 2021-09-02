@@ -25086,3 +25086,788 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 09/02/2021,time_series_covid19_deaths_global.csv,San Marino,04/16/2021,87,86,Correct San Marino deaths data
 09/02/2021,time_series_covid19_deaths_global.csv,San Marino,04/17/2021,87,86,Correct San Marino deaths data
 09/02/2021,time_series_covid19_deaths_global.csv,San Marino,04/18/2021,87,86,Correct San Marino deaths data
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/19/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/20/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/21/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/22/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/23/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/24/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/25/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/26/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/27/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/28/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/29/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/30/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,10/31/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/01/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/02/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/03/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/04/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/05/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/06/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/07/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/08/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/09/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/10/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/11/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/12/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/13/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/14/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/15/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/16/2020,0,1,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/17/2020,0,2,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/18/2020,0,2,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/19/2020,0,2,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/20/2020,0,2,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/21/2020,0,2,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/22/2020,0,2,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/23/2020,0,2,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/24/2020,0,2,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/25/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/26/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/27/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/28/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/29/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,11/30/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/01/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/02/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/03/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/04/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/05/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/06/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/07/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/08/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/09/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/10/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/11/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/12/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/13/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/14/2020,0,3,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/15/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/16/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/17/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/18/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/19/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/20/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/21/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/22/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/23/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/24/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/25/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/26/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/27/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/28/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/29/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/30/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,12/31/2020,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,01/01/2021,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,01/02/2021,0,4,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,01/25/2021,4,5,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/08/2021,19,37,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/09/2021,19,74,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/10/2021,48,90,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/11/2021,129,134,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/12/2021,146,154,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/13/2021,176,155,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/14/2021,178,176,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/15/2021,186,187,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/16/2021,233,195,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/17/2021,261,242,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/18/2021,276,270,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/19/2021,291,285,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/20/2021,302,300,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/21/2021,308,311,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/22/2021,318,317,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/23/2021,329,327,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/24/2021,341,338,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/25/2021,352,350,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/26/2021,352,361,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/28/2021,374,376,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/29/2021,385,383,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/30/2021,392,394,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,03/31/2021,403,401,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/01/2021,409,412,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/02/2021,410,418,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/03/2021,416,419,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/04/2021,416,425,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/05/2021,420,425,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/06/2021,422,429,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/07/2021,423,431,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/08/2021,429,432,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/09/2021,430,438,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/10/2021,432,439,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/11/2021,432,441,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/12/2021,437,441,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/13/2021,437,446,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/14/2021,437,446,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/15/2021,437,446,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/16/2021,438,446,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/17/2021,438,447,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/18/2021,438,447,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/19/2021,438,447,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/20/2021,439,447,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/21/2021,440,448,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/22/2021,440,449,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/23/2021,440,449,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/24/2021,440,449,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/25/2021,440,449,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/26/2021,442,449,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/27/2021,443,451,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/28/2021,443,452,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/29/2021,444,452,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,04/30/2021,444,453,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/01/2021,444,453,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/02/2021,444,453,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/03/2021,444,453,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/04/2021,444,453,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/05/2021,444,453,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/06/2021,445,453,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/07/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/08/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/09/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/10/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/11/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/12/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/13/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/14/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/15/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/16/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/17/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/18/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/19/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/20/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/21/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/22/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/23/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/24/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/25/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/26/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/27/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/28/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/29/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/30/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,05/31/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/01/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/02/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/03/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/04/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/05/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/06/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/07/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/08/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/09/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/10/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/11/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/12/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/13/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/14/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/15/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/16/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/17/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/18/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/19/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/20/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/21/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/22/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/23/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/24/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/25/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/26/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/27/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/28/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/29/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,06/30/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/01/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/02/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/03/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/04/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/05/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/06/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/07/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/08/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/09/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/10/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/11/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/12/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/13/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/14/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/15/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/16/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/17/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/18/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/19/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/20/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/21/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/22/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/23/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/24/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/25/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/26/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/27/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/28/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/29/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/30/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,07/31/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/01/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/02/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/03/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/04/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/05/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/06/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/07/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/08/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/09/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/10/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/11/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/12/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/13/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/14/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/15/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/16/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/17/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/18/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/19/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/20/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/21/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/22/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/23/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/24/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/25/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/26/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/27/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/28/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/29/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/30/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,08/31/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_confirmed_global.csv,France,09/01/2021,445,454,"Correct Wallis and Futuna, France confirmed data"
+09/02/2021,time_series_covid19_deaths_global.csv,France,03/20/2021,1,0,"Correct Wallis and Futuna, France deaths data"
+09/02/2021,time_series_covid19_deaths_global.csv,France,03/23/2021,2,1,"Correct Wallis and Futuna, France deaths data"
+09/02/2021,time_series_covid19_deaths_global.csv,France,03/24/2021,3,2,"Correct Wallis and Futuna, France deaths data"
+09/02/2021,time_series_covid19_deaths_global.csv,France,04/08/2021,5,4,"Correct Wallis and Futuna, France deaths data"
+09/02/2021,time_series_covid19_deaths_global.csv,France,04/29/2021,7,5,"Correct Wallis and Futuna, France deaths data"
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/14/2020,2,0,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/15/2020,2,6,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/16/2020,3,8,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/17/2020,4,8,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/18/2020,4,10,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/19/2020,6,10,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/20/2020,7,10,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/28/2020,8,7,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/31/2020,10,8,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/01/2020,10,8,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/06/2020,11,10,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/26/2020,11,16,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/23/2020,108,107,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/24/2020,108,107,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/25/2020,114,107,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/26/2020,114,107,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/27/2020,114,107,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/05/2020,126,114,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/06/2020,126,114,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/07/2020,126,114,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/11/2020,127,126,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/12/2020,127,126,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/13/2020,127,126,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/14/2020,127,126,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/19/2020,132,127,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/20/2020,132,127,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/21/2020,132,127,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/22/2020,132,127,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/23/2020,132,127,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/24/2020,132,127,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/25/2020,136,131,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/26/2020,136,131,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/27/2020,136,131,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/28/2020,136,131,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/29/2020,136,131,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/30/2020,136,131,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/31/2020,136,131,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/01/2020,136,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/02/2020,136,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/03/2020,136,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/04/2020,136,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/05/2020,136,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/06/2020,136,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/07/2020,137,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/08/2020,137,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/09/2020,137,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/10/2020,137,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/11/2020,138,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/12/2020,139,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/13/2020,139,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/14/2020,140,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/15/2020,140,135,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/16/2020,140,138,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/17/2020,141,138,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/18/2020,141,139,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/19/2020,141,139,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/20/2020,141,139,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/21/2020,143,139,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/22/2020,143,139,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/23/2020,143,139,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/24/2020,143,139,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/25/2020,143,139,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/26/2020,143,141,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/27/2020,143,141,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/28/2020,143,141,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/29/2020,143,141,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/30/2020,144,141,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/01/2020,144,142,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/02/2020,145,142,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/03/2020,146,142,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/04/2020,146,142,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/05/2020,146,142,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/06/2020,148,142,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/07/2020,148,146,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/08/2020,148,147,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/09/2020,148,147,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/10/2020,148,147,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/11/2020,148,147,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/12/2020,148,147,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/13/2020,148,147,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/14/2020,148,147,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/16/2020,149,148,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/17/2020,149,148,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/18/2020,149,148,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/19/2020,149,148,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/20/2020,149,148,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/21/2020,151,148,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/22/2020,151,149,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/23/2020,153,152,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/24/2020,153,152,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/25/2020,153,152,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/26/2020,153,152,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/27/2020,153,152,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/28/2020,153,152,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/29/2020,153,152,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/30/2020,153,152,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,10/31/2020,153,152,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/01/2020,153,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/02/2020,153,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/03/2020,157,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/04/2020,157,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/05/2020,157,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/06/2020,158,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/07/2020,158,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/08/2020,158,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/09/2020,158,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/10/2020,158,154,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/12/2020,160,158,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/13/2020,160,158,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/14/2020,160,158,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/15/2020,160,158,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/16/2020,160,158,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/17/2020,160,158,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/18/2020,160,161,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/19/2020,163,161,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/20/2020,163,161,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/21/2020,163,161,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/22/2020,163,161,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/23/2020,166,161,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/24/2020,166,161,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/25/2020,166,167,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/26/2020,166,167,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/27/2020,173,167,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/28/2020,173,167,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/29/2020,173,172,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,11/30/2020,183,172,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/01/2020,183,172,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/02/2020,183,172,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/03/2020,183,181,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/04/2020,184,181,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/05/2020,184,182,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/06/2020,184,182,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/07/2020,184,182,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/08/2020,184,182,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/09/2020,184,182,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/10/2020,184,182,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/11/2020,187,182,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/12/2020,187,185,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/13/2020,187,185,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/14/2020,187,185,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/15/2020,202,185,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/16/2020,202,185,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/21/2020,205,202,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/22/2020,205,202,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/23/2020,205,211,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/24/2020,205,211,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/25/2020,205,211,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/26/2020,205,211,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/27/2020,205,211,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/28/2020,217,211,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/29/2020,217,211,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/30/2020,256,226,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,12/31/2020,256,226,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/01/2021,256,267,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/02/2021,285,267,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/03/2021,297,284,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/04/2021,322,296,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/05/2021,354,322,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/06/2021,373,346,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/08/2021,451,418,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/09/2021,508,448,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/10/2021,531,502,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/11/2021,583,525,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/12/2021,601,577,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/13/2021,612,577,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/14/2021,627,610,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/15/2021,656,626,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/16/2021,696,626,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/17/2021,705,689,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/18/2021,746,688,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/21/2021,762,844,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/22/2021,972,866,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/23/2021,1033,972,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/25/2021,1069,1033,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/26/2021,1116,1069,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/27/2021,1129,1116,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/28/2021,1149,1130,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/29/2021,1162,1130,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/30/2021,1186,1157,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,01/31/2021,1205,1186,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/01/2021,1223,1201,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/02/2021,1243,1205,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/03/2021,1279,1243,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/04/2021,1289,1243,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/05/2021,1289,1279,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/06/2021,1504,1289,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/07/2021,1513,1504,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/08/2021,1575,1513,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/09/2021,1695,1575,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/10/2021,1695,1575,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/11/2021,1768,1695,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/12/2021,1802,1695,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/13/2021,1892,1802,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/15/2021,1910,1892,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/16/2021,2058,1987,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/17/2021,2211,1987,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/18/2021,2280,2211,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/19/2021,2305,2264,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/20/2021,2328,2264,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/21/2021,2401,2328,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/22/2021,2464,2401,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/23/2021,2514,2464,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/24/2021,2562,2464,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/26/2021,2592,2562,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/27/2021,2592,2562,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,02/28/2021,2618,2592,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/01/2021,2688,2618,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/02/2021,2849,2618,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/03/2021,2890,2618,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/04/2021,2928,2849,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/05/2021,2950,2849,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/06/2021,2979,2890,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/07/2021,2979,2950,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/08/2021,3000,2979,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/09/2021,3032,2989,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/10/2021,3032,2989,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/11/2021,3132,3000,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/12/2021,3173,3087,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/13/2021,3173,3132,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/14/2021,3315,3173,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/15/2021,3342,3232,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/16/2021,3354,3315,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/17/2021,3486,3315,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/18/2021,3566,3354,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/19/2021,3616,3386,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/20/2021,3770,3566,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/21/2021,3770,3616,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/22/2021,3798,3770,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/24/2021,3882,3828,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/25/2021,3882,3862,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/26/2021,3996,3882,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/28/2021,4084,4054,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/29/2021,4114,4084,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,03/31/2021,4135,4114,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/01/2021,4135,4189,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/02/2021,4259,4230,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/03/2021,4290,4259,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/04/2021,4290,4294,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/05/2021,4320,4294,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/06/2021,4320,4330,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/07/2021,4332,4355,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/08/2021,4395,4367,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/11/2021,4430,4490,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/12/2021,4444,4528,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/13/2021,4633,4563,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/14/2021,4633,4563,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/15/2021,4765,4633,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/16/2021,4834,4727,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/17/2021,4875,4765,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/18/2021,4922,4834,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/19/2021,4976,4875,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/20/2021,5012,4922,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/21/2021,5016,4976,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/22/2021,5170,5016,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/23/2021,5206,5016,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/24/2021,5206,5016,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/25/2021,5284,5016,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/26/2021,5354,5140,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/27/2021,5354,5422,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/28/2021,5456,5500,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/29/2021,5559,5602,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,04/30/2021,5873,5838,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/01/2021,5873,5966,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/02/2021,5873,6106,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/03/2021,6373,6270,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/04/2021,6373,6352,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/05/2021,6373,6708,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/06/2021,6373,7192,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/07/2021,6373,7675,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/08/2021,6373,8069,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/09/2021,6373,8297,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/10/2021,8172,8507,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/11/2021,8172,8696,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/12/2021,8172,8873,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/13/2021,9184,9081,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/14/2021,9184,9251,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/15/2021,9184,9440,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/16/2021,9184,9661,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/17/2021,9764,9741,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/18/2021,9764,9900,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/19/2021,9764,10090,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/20/2021,9764,10194,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/21/2021,9764,10297,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/22/2021,9764,10433,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/23/2021,9764,10433,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/24/2021,10740,10669,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/25/2021,10740,10682,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/26/2021,10740,10790,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/27/2021,11145,11001,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/28/2021,11145,11112,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/29/2021,11145,11271,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/30/2021,11145,11373,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,05/31/2021,11621,11468,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/01/2021,11621,11612,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/02/2021,11621,11698,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/03/2021,11621,11888,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/04/2021,12158,12035,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/06/2021,12158,12238,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/07/2021,12466,12383,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/09/2021,12466,12611,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/10/2021,12466,12813,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/12/2021,12973,13200,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/13/2021,12973,13414,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/14/2021,13630,13539,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/16/2021,13630,13731,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/17/2021,14123,13965,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/19/2021,14123,14301,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/20/2021,14123,14414,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/21/2021,14123,14549,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/23/2021,14620,14755,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/24/2021,14620,14953,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/25/2021,15116,15111,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/26/2021,15116,15265,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/27/2021,15116,15427,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/28/2021,15579,15522,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,06/30/2021,15579,15671,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/01/2021,15579,15751,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/03/2021,15857,15986,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/04/2021,15857,16149,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/05/2021,16304,16259,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/07/2021,16304,16411,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/08/2021,16679,16565,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/10/2021,16679,16793,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/11/2021,16679,16899,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/12/2021,17005,16957,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/14/2021,17005,17096,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/15/2021,17005,17171,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/17/2021,17234,17305,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/18/2021,17234,17435,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/19/2021,17541,17500,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/21/2021,17541,17686,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/23/2021,17747,17878,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/24/2021,17747,17941,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/25/2021,17747,18056,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/26/2021,18062,18095,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/27/2021,18062,18128,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/28/2021,18062,18155,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/29/2021,18189,18220,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/30/2021,18189,18275,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,07/31/2021,18189,18328,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/01/2021,18189,18362,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/02/2021,18384,18411,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/03/2021,18384,18470,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/04/2021,18384,18546,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/05/2021,18582,18617,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/06/2021,18582,18617,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/07/2021,18582,18617,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/08/2021,18582,18617,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/09/2021,18582,18617,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/10/2021,18714,18668,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/11/2021,18714,18772,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/12/2021,18895,18954,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/13/2021,18895,18981,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/14/2021,18895,19082,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/15/2021,18895,19149,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/16/2021,18895,19199,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/17/2021,18895,19224,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/18/2021,19186,19272,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/19/2021,19390,19320,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/20/2021,19390,19476,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/21/2021,19390,19530,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/22/2021,19390,19586,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/23/2021,19594,19609,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/24/2021,19594,19680,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/25/2021,19594,19770,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/26/2021,19777,19806,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/27/2021,19777,19863,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/28/2021,19777,19910,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/29/2021,19777,19910,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/30/2021,19976,19992,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,08/31/2021,19976,20038,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_confirmed_global.csv,Seychelles,09/01/2021,19976,20128,Correct Seychelles confirmed data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,01/04/2021,1,0,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,01/16/2021,2,1,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,01/17/2021,2,1,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,01/21/2021,2,3,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,01/30/2021,4,3,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,01/31/2021,4,3,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,02/01/2021,5,4,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,02/02/2021,5,4,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,02/06/2021,6,5,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,02/07/2021,7,6,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,02/13/2021,8,7,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,02/16/2021,10,9,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,02/17/2021,10,9,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,02/22/2021,11,10,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/03/2021,13,11,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/04/2021,13,11,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/05/2021,15,11,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/06/2021,15,13,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/07/2021,15,14,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/08/2021,15,14,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/09/2021,15,14,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/10/2021,15,14,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/11/2021,16,14,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/12/2021,16,15,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/13/2021,16,15,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/14/2021,16,15,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/15/2021,16,15,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/24/2021,18,16,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/26/2021,20,18,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/27/2021,20,18,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/28/2021,20,18,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,03/31/2021,22,20,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/01/2021,22,21,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/02/2021,24,22,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/03/2021,24,22,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/04/2021,24,22,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/05/2021,24,22,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/06/2021,24,22,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/07/2021,24,22,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/08/2021,24,22,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/09/2021,24,23,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/10/2021,24,23,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/12/2021,25,24,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/13/2021,25,24,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/14/2021,25,24,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/22/2021,26,25,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/23/2021,26,25,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/24/2021,26,25,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/25/2021,26,25,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/26/2021,26,27,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/27/2021,26,27,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/28/2021,26,27,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/29/2021,26,27,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,04/30/2021,28,27,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/01/2021,28,27,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/12/2021,28,30,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/13/2021,32,30,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/14/2021,32,30,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/15/2021,32,30,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/16/2021,32,30,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/17/2021,35,30,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/21/2021,35,38,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/22/2021,35,38,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/23/2021,35,38,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/27/2021,40,38,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/28/2021,40,38,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/29/2021,40,38,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,05/31/2021,42,40,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/01/2021,42,40,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/02/2021,42,40,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/07/2021,46,42,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/08/2021,46,42,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/09/2021,46,42,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/10/2021,46,42,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/11/2021,46,42,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/12/2021,46,42,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/13/2021,46,43,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/14/2021,50,43,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/15/2021,50,43,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/16/2021,50,46,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/17/2021,55,51,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/18/2021,55,51,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/19/2021,55,52,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/20/2021,55,52,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/21/2021,55,52,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/22/2021,59,52,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/23/2021,59,53,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/24/2021,59,55,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/25/2021,63,55,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/26/2021,63,55,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/27/2021,63,55,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/28/2021,68,55,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/29/2021,68,55,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,06/30/2021,68,56,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/01/2021,68,57,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/02/2021,71,57,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/03/2021,71,57,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/04/2021,71,57,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/05/2021,71,57,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/06/2021,71,57,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/07/2021,71,57,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/08/2021,74,68,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/09/2021,74,68,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/10/2021,74,68,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/11/2021,74,68,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/12/2021,77,68,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/13/2021,77,68,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/14/2021,77,68,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/15/2021,77,68,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/16/2021,81,68,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/17/2021,81,75,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/18/2021,81,75,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/19/2021,86,75,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/20/2021,86,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/21/2021,86,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/22/2021,89,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/23/2021,89,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/24/2021,89,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/25/2021,89,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/26/2021,90,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/27/2021,90,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/28/2021,90,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/29/2021,94,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/30/2021,94,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,07/31/2021,94,79,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/01/2021,94,86,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/02/2021,94,86,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/03/2021,94,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/04/2021,94,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/05/2021,94,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/06/2021,94,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/07/2021,94,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/08/2021,94,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/09/2021,94,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/10/2021,98,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/11/2021,98,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/12/2021,98,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/13/2021,98,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/14/2021,98,91,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/18/2021,101,98,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/19/2021,101,98,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/20/2021,101,98,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/21/2021,101,98,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/22/2021,101,98,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/23/2021,104,98,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/24/2021,104,98,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/25/2021,104,98,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/26/2021,104,102,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/27/2021,104,102,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/28/2021,104,102,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/29/2021,104,102,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/30/2021,104,102,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,08/31/2021,104,102,Correct Seychelles deaths data
+09/02/2021,time_series_covid19_deaths_global.csv,Seychelles,09/01/2021,104,102,Correct Seychelles deaths data
