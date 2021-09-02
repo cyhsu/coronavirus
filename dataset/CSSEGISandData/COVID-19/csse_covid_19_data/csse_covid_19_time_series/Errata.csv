@@ -23282,3 +23282,18 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 09/01/2021,time_series_covid19_deaths_global.csv,France,08/29/2021,2,1,"Correct Saint Barthelemy, France deaths data"
 09/01/2021,time_series_covid19_deaths_global.csv,France,08/30/2021,2,1,"Correct Saint Barthelemy, France deaths data"
 09/01/2021,time_series_covid19_deaths_global.csv,France,08/31/2021,2,1,"Correct Saint Barthelemy, France deaths data"
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/17/2021,111589,122899,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/18/2021,111681,123007,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/19/2021,111808,123140,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/20/2021,111856,123193,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/21/2021,111856,123322,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/22/2021,111856,123440,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/23/2021,112140,123502,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/24/2021,112251,123617,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/25/2021,112309,123692,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/26/2021,112415,123815,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/27/2021,112415,123918,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/28/2021,112457,123872,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/29/2021,112510,123925,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/30/2021,112510,123970,Correct France deaths data
+09/01/2021,time_series_covid19_deaths_global.csv,France,08/31/2021,112510,124100,Correct France deaths data
