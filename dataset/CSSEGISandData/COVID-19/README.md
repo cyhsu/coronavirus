@@ -74,7 +74,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - District of Columbia: [Government of The District of Columbia](https://coronavirus.dc.gov/page/coronavirus-data)
   - Florida: [Department of Health](https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/8d0de33f260d444c852a615dc7837c86)
   - Georgia: [Department of Public Health](https://dph.georgia.gov/covid-19-daily-status-report)
-  - Gaum: [Department of Public Health and Social Services](http://dphss.guam.gov/covid-19/)
+  - Guam: [Department of Public Health and Social Services](http://dphss.guam.gov/covid-19/)
   - Hawaii: [Department of Health](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/current-situation-in-hawaii/)
   - Idaho: [State Government](https://coronavirus.idaho.gov/)
   - Illinois: [Department of Public Health](https://dph.illinois.gov/covid19)
