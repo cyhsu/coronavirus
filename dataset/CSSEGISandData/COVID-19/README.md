@@ -273,7 +273,9 @@ This list includes a complete list of all sources ever used in the data set, sin
   - New Zealand:
     - Ministry of Health: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-current-cases
   - Palau:
-    - http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
+    - Ministry of Health & Human Services: http://www.palauhealth.org/2019nCoV_SitRep/MOH-COVID-19%20Situation%20Report.pdf 
+  - Paraguay:
+    - Ministerio de Salud Publica Y Bienestar Social: https://www.mspbs.gov.py/reporte-covid19.html
   - Pakistan:
     - Government of Pakistan: http://covid.gov.pk/stats/pakistan
   - Peru:
