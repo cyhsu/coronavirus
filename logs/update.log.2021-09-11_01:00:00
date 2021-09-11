@@ -9,3 +9,12 @@ README.md
 sent 58218 bytes  received 42 bytes  116520.00 bytes/sec
 total size is 476561962  speedup is 8179.92
 /Users/cyhsu/dev/virus/dataset/icu/icu.09-10-2021_20:00:04
+[master 28ee805b3] Update on  09-10-2021_20:00:18
+ 7 files changed, 3726 insertions(+), 2 deletions(-)
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.09-10-2021_20:00:03
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-09-11_01:00:07
+ create mode 100644 dataset/cases/texas/Texas.DSHS.09-10-2021_20:00:00
+ create mode 100644 dataset/icu/icu.09-10-2021_20:00:04
+ create mode 100644 logs/update.log.2021-09-11_01:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
