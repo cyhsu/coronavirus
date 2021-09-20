@@ -108,8 +108,7 @@ This list includes a complete list of all sources ever used in the data set, sin
   - New York: [State Department of Health](https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing/xdss-u53e/data)
     - [New York City Health Department](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)
     - [NYC Department of Health and Mental Hygiene](https://www1.nyc.gov/site/doh/covid/covid-19-data.page) & [Github Repo](https://github.com/nychealth/coronavirus-data)
-  - North Carolina
-    - [City of Greenville GIS](https://www.arcgis.com/apps/opsdashboard/index.html#/7aeac695cafa4065ba1505b1cfa72747)
+  - North Carolina: [Department of Health and Human](https://covid19.ncdhhs.gov/dashboard)
   - North Dakota: [Department of Health](https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases)
   - Northern Mariana Islands: [Northern Mariana Islands Commonwealth Dept of Public Health](https://chcc.datadriven.health/ui/99/dashboard/cbaeede2-4f75-11eb-b380-0242ac1d004a)
   - Ohio: [Department of Health](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/home)
