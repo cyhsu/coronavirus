@@ -3985,20 +3985,20 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Yemen,2021-07-31 04:21:35,15.552727,48.516388,7058,1375,4171,1512,Yemen,23.66394277630821,19.481439501275148
 ,,,Zambia,2021-07-31 04:21:35,-13.133897,27.849332,195096,3376,186211,5509,Zambia,1061.229693978815,1.7304301472095789
 ,,,Zimbabwe,2021-07-31 04:21:35,-19.015438,29.154857,107490,3490,74562,29438,Zimbabwe,723.2088269019957,3.2468136570843797
-,,Johor,Malaysia,2021-07-31 04:21:35,1.4854,103.7618,0,0,0,0,"Johor, Malaysia",0.0,0.0
-,,Kedah,Malaysia,2021-07-31 04:21:35,6.1184,100.3685,0,0,0,0,"Kedah, Malaysia",0.0,0.0
-,,Kelantan,Malaysia,2021-07-31 04:21:35,6.1254,102.2381,0,0,0,0,"Kelantan, Malaysia",0.0,0.0
-,,Melaka,Malaysia,2021-07-31 04:21:35,2.1896,102.2501,0,0,0,0,"Melaka, Malaysia",0.0,0.0
-,,Negeri Sembilan,Malaysia,2021-07-31 04:21:35,2.7258,101.9424,0,0,0,0,"Negeri Sembilan, Malaysia",0.0,0.0
-,,Pahang,Malaysia,2021-07-31 04:21:35,3.8126,103.3256,0,0,0,0,"Pahang, Malaysia",0.0,0.0
-,,Perak,Malaysia,2021-07-31 04:21:35,4.5921,101.0901,0,0,0,0,"Perak, Malaysia",0.0,0.0
-,,Perlis,Malaysia,2021-07-31 04:21:35,6.4449,100.2048,0,0,0,0,"Perlis, Malaysia",0.0,0.0
-,,Pulau Pinang,Malaysia,2021-07-31 04:21:35,5.4141,100.3288,0,0,0,0,"Pulau Pinang, Malaysia",0.0,0.0
-,,Sabah,Malaysia,2021-07-31 04:21:35,5.9788,116.0753,0,0,0,0,"Sabah, Malaysia",0.0,0.0
-,,Sarawak,Malaysia,2021-07-31 04:21:35,1.5533,110.3592,0,0,0,0,"Sarawak, Malaysia",0.0,0.0
-,,Selangor,Malaysia,2021-07-31 04:21:35,3.0738,101.5183,0,0,0,0,"Selangor, Malaysia",0.0,0.0
-,,Terengganu,Malaysia,2021-07-31 04:21:35,5.3117,103.1324,0,0,0,0,"Terengganu, Malaysia",0.0,0.0
-,,W.P. Kuala Lumpur,Malaysia,2021-07-31 04:21:35,3.139,101.6869,0,0,0,0,"W.P. Kuala Lumpur, Malaysia",0.0,0.0
-,,W.P. Labuan,Malaysia,2021-07-31 04:21:35,5.2831,115.2308,0,0,0,0,"W.P. Labuan, Malaysia",0.0,0.0
-,,W.P. Putrajaya,Malaysia,2021-07-31 04:21:35,2.9264,101.6964,0,0,0,0,"W.P. Putrajaya, Malaysia",0.0,0.0
+,,Johor,Malaysia,2021-07-31 04:21:35,1.4854,103.7618,89542,77322,896,0,"Johor, Malaysia",0.0,0.0
+,,Kedah,Malaysia,2021-07-31 04:21:35,6.1184,100.3685,44242,32668,417,0,"Kedah, Malaysia",0.0,0.0
+,,Kelantan,Malaysia,2021-07-31 04:21:35,6.1254,102.2381,42414,37986,269,0,"Kelantan, Malaysia",0.0,0.0
+,,Melaka,Malaysia,2021-07-31 04:21:35,2.1896,102.2501,30664,24735,381,0,"Melaka, Malaysia",0.0,0.0
+,,Negeri Sembilan,Malaysia,2021-07-31 04:21:35,2.7258,101.9424,70563,60183,712,0,"Negeri Sembilan, Malaysia",0.0,0.0
+,,Pahang,Malaysia,2021-07-31 04:21:35,3.8126,103.3256,23786,17863,245,0,"Pahang, Malaysia",0.0,0.0
+,,Perak,Malaysia,2021-07-31 04:21:35,4.5921,101.0901,36902,31983,204,0,"Perak, Malaysia",0.0,0.0
+,,Perlis,Malaysia,2021-07-31 04:21:35,6.4449,100.2048,688,619,8,0,"Perlis, Malaysia",0.0,0.0
+,,Pulau Pinang,Malaysia,2021-07-31 04:21:35,5.4141,100.3288,45118,39662,184,0,"Pulau Pinang, Malaysia",0.0,0.0
+,,Sabah,Malaysia,2021-07-31 04:21:35,5.9788,116.0753,83687,76386,625,0,"Sabah, Malaysia",0.0,0.0
+,,Sarawak,Malaysia,2021-07-31 04:21:35,1.5533,110.3592,76243,71044,459,0,"Sarawak, Malaysia",0.0,0.0
+,,Selangor,Malaysia,2021-07-31 04:21:35,3.0738,101.5183,401021,311786,3083,0,"Selangor, Malaysia",0.0,0.0
+,,Terengganu,Malaysia,2021-07-31 04:21:35,5.3117,103.1324,16067,13301,120,0,"Terengganu, Malaysia",0.0,0.0
+,,W.P. Kuala Lumpur,Malaysia,2021-07-31 04:21:35,3.139,101.6869,121064,95248,1092,0,"W.P. Kuala Lumpur, Malaysia",0.0,0.0
+,,W.P. Labuan,Malaysia,2021-07-31 04:21:35,5.2831,115.2308,9651,9313,146,0,"W.P. Labuan, Malaysia",0.0,0.0
+,,W.P. Putrajaya,Malaysia,2021-07-31 04:21:35,2.9264,101.6964,3834,2820,18,0,"W.P. Putrajaya, Malaysia",0.0,0.0
 ,,Unknown,Malaysia,2021-07-31 04:21:35,,,0,0,0,0,"Unknown, Malaysia",0.0,0.0

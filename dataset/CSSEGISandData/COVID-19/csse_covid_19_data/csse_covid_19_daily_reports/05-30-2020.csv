@@ -3533,20 +3533,20 @@ FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths
 ,,,Palau,2020-05-31 02:32:45,7.515,134.5825,0,0,0,0,Palau,0.0,0.0
 ,,Cook Islands,New Zealand,2020-05-31 02:32:45,-21.2367,-159.7777,0,0,0,0,"Cook Islands, New Zealand",0.0,0.0
 ,,,Summer Olympics 2020,2020-05-31 02:32:45,35.6491,139.7737,0,0,0,0,Summer Olympics 2020,0.0,0.0
-,,Johor,Malaysia,2020-05-31 02:32:45,1.4854,103.7618,0,0,0,0,"Johor, Malaysia",0.0,0.0
-,,Kedah,Malaysia,2020-05-31 02:32:45,6.1184,100.3685,0,0,0,0,"Kedah, Malaysia",0.0,0.0
-,,Kelantan,Malaysia,2020-05-31 02:32:45,6.1254,102.2381,0,0,0,0,"Kelantan, Malaysia",0.0,0.0
-,,Melaka,Malaysia,2020-05-31 02:32:45,2.1896,102.2501,0,0,0,0,"Melaka, Malaysia",0.0,0.0
-,,Negeri Sembilan,Malaysia,2020-05-31 02:32:45,2.7258,101.9424,0,0,0,0,"Negeri Sembilan, Malaysia",0.0,0.0
-,,Pahang,Malaysia,2020-05-31 02:32:45,3.8126,103.3256,0,0,0,0,"Pahang, Malaysia",0.0,0.0
-,,Perak,Malaysia,2020-05-31 02:32:45,4.5921,101.0901,0,0,0,0,"Perak, Malaysia",0.0,0.0
-,,Perlis,Malaysia,2020-05-31 02:32:45,6.4449,100.2048,0,0,0,0,"Perlis, Malaysia",0.0,0.0
-,,Pulau Pinang,Malaysia,2020-05-31 02:32:45,5.4141,100.3288,0,0,0,0,"Pulau Pinang, Malaysia",0.0,0.0
-,,Sabah,Malaysia,2020-05-31 02:32:45,5.9788,116.0753,0,0,0,0,"Sabah, Malaysia",0.0,0.0
-,,Sarawak,Malaysia,2020-05-31 02:32:45,1.5533,110.3592,0,0,0,0,"Sarawak, Malaysia",0.0,0.0
-,,Selangor,Malaysia,2020-05-31 02:32:45,3.0738,101.5183,0,0,0,0,"Selangor, Malaysia",0.0,0.0
-,,Terengganu,Malaysia,2020-05-31 02:32:45,5.3117,103.1324,0,0,0,0,"Terengganu, Malaysia",0.0,0.0
-,,W.P. Kuala Lumpur,Malaysia,2020-05-31 02:32:45,3.139,101.6869,0,0,0,0,"W.P. Kuala Lumpur, Malaysia",0.0,0.0
-,,W.P. Labuan,Malaysia,2020-05-31 02:32:45,5.2831,115.2308,0,0,0,0,"W.P. Labuan, Malaysia",0.0,0.0
-,,W.P. Putrajaya,Malaysia,2020-05-31 02:32:45,2.9264,101.6964,0,0,0,0,"W.P. Putrajaya, Malaysia",0.0,0.0
+,,Johor,Malaysia,2020-05-31 02:32:45,1.4854,103.7618,678,621,18,0,"Johor, Malaysia",0.0,0.0
+,,Kedah,Malaysia,2020-05-31 02:32:45,6.1184,100.3685,96,91,1,0,"Kedah, Malaysia",0.0,0.0
+,,Kelantan,Malaysia,2020-05-31 02:32:45,6.1254,102.2381,156,147,3,0,"Kelantan, Malaysia",0.0,0.0
+,,Melaka,Malaysia,2020-05-31 02:32:45,2.1896,102.2501,213,195,6,0,"Melaka, Malaysia",0.0,0.0
+,,Negeri Sembilan,Malaysia,2020-05-31 02:32:45,2.7258,101.9424,857,713,8,0,"Negeri Sembilan, Malaysia",0.0,0.0
+,,Pahang,Malaysia,2020-05-31 02:32:45,3.8126,103.3256,349,301,7,0,"Pahang, Malaysia",0.0,0.0
+,,Perak,Malaysia,2020-05-31 02:32:45,4.5921,101.0901,255,245,6,0,"Perak, Malaysia",0.0,0.0
+,,Perlis,Malaysia,2020-05-31 02:32:45,6.4449,100.2048,18,16,2,0,"Perlis, Malaysia",0.0,0.0
+,,Pulau Pinang,Malaysia,2020-05-31 02:32:45,5.4141,100.3288,120,117,1,0,"Pulau Pinang, Malaysia",0.0,0.0
+,,Sabah,Malaysia,2020-05-31 02:32:45,5.9788,116.0753,347,314,5,0,"Sabah, Malaysia",0.0,0.0
+,,Sarawak,Malaysia,2020-05-31 02:32:45,1.5533,110.3592,552,501,17,0,"Sarawak, Malaysia",0.0,0.0
+,,Selangor,Malaysia,2020-05-31 02:32:45,3.0738,101.5183,1879,1495,22,0,"Selangor, Malaysia",0.0,0.0
+,,Terengganu,Malaysia,2020-05-31 02:32:45,5.3117,103.1324,113,112,1,0,"Terengganu, Malaysia",0.0,0.0
+,,W.P. Kuala Lumpur,Malaysia,2020-05-31 02:32:45,3.139,101.6869,2016,1361,17,0,"W.P. Kuala Lumpur, Malaysia",0.0,0.0
+,,W.P. Labuan,Malaysia,2020-05-31 02:32:45,5.2831,115.2308,16,16,0,0,"W.P. Labuan, Malaysia",0.0,0.0
+,,W.P. Putrajaya,Malaysia,2020-05-31 02:32:45,2.9264,101.6964,97,84,1,0,"W.P. Putrajaya, Malaysia",0.0,0.0
 ,,Unknown,Malaysia,2020-05-31 02:32:45,,,0,0,0,0,"Unknown, Malaysia",0.0,0.0
