@@ -99,6 +99,7 @@ This list includes a complete list of all sources ever used in the data set, sin
     - [St. Louis County](https://stlcorona.com/resources/covid-19-statistics1/)
   - Montana: [Department of Public Health and Human Services](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
   - Nebraska
+    - [Nebraska Department of Health and Human Services](https://datanexus-dhhs.ne.gov/views/Covid/1_CountyStatisticsMap?%3AisGuestRedirectFromVizportal=y&%3Aembed=y)
     - [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
   - Nevada: [Department of Health and Human Services](https://nvhealthresponse.nv.gov/)
     - [Reno County Health Department](http://reno.maps.arcgis.com/apps/opsdashboard/index.html#/dfaef27aede1414b89abf393b2ccb994)
