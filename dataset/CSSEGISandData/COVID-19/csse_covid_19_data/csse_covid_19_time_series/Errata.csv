@@ -28253,3 +28253,8 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705217,705218,Correct US deaths data
 10/06/2021,time_series_covid19_deaths_US.csv,"Brown, Illinois, US",10/05/2021,8,9,"Correct Brown, Illinois, US deaths data"
 10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705218,705219,Correct US deaths data
+10/06/2021,time_series_covid19_deaths_US.csv,"Pepin, Wisconsin, US",10/05/2021,8,10,"Correct Pepin, Wisconsin, US deaths data"
+10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705219,705221,Correct US deaths data
+10/06/2021,time_series_covid19_deaths_US.csv,"San Bernardino, California, US",10/05/2021,5555,5551,"Correct San Bernardino, California, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Tulare, California, US",10/05/2021,924,920,"Correct Tulare, California, US deaths data"
+10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705221,705213,Correct US deaths data
