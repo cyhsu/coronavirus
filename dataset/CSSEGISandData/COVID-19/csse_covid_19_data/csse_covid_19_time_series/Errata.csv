@@ -27223,8 +27223,8 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 09/15/2021,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",09/14/2021,1165,1167,"Correct District of Columbia, District of Columbia, US deaths data"
 09/15/2021,time_series_covid19_confirmed_global.csv,US,09/14/2021,41364566,41364941,"Correct District of Columbia, District of Columbia, US confirmed data"
 09/15/2021,time_series_covid19_deaths_global.csv,US,09/14/2021,663923,663925,"Correct District of Columbia, District of Columbia, US deaths data"
-09/15/2021,time_series_covid19_confirmed_global.csv,Mexico,09/14/2021,3516043,3528972,"Correct Mexico confirmed data"
-09/15/2021,time_series_covid19_deaths_global.csv,Mexico,09/14/2021,267969,269016,"Correct Mexico deaths data"
+09/15/2021,time_series_covid19_confirmed_global.csv,Mexico,09/14/2021,3516043,3528972,Correct Mexico confirmed data
+09/15/2021,time_series_covid19_deaths_global.csv,Mexico,09/14/2021,267969,269016,Correct Mexico deaths data
 09/16/2021,time_series_covid19_confirmed_global.csv,Tunisia,09/08/2021,680074,678363,Correct Tunisia confirmed data
 09/16/2021,time_series_covid19_deaths_global.csv,Tunisia,09/08/2021,24041,23901,Correct Tunisia deaths data
 09/16/2021,time_series_covid19_deaths_global.csv,Tunisia,09/09/2021,24041,23993,Correct Tunisia deaths data
@@ -28233,3 +28233,23 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/04/2021,time_series_covid19_deaths_global.csv,Turkey,10/01/2021,64037,64264,Correct Turkey deaths data
 10/04/2021,time_series_covid19_deaths_global.csv,Turkey,10/02/2021,64240,64467,Correct Turkey deaths data
 10/04/2021,time_series_covid19_deaths_global.csv,Turkey,10/03/2021,64434,64661,Correct Turkey deaths data
+10/06/2021,time_series_covid19_deaths_US.csv,"Campbell, Wyoming, US",10/05/2021,77,85,"Correct Campbell, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Goshen, Wyoming, US",10/05/2021,29,33,"Correct Goshen, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Hot Springs, Wyoming, US",10/05/2021,7,8,"Correct Hot Springs, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Johnson, Wyoming, US",10/05/2021,13,15,"Correct Johnson, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_US.csv,"Park, Wyoming, US",10/05/2021,48,54,"Correct Park, Wyoming, US deaths data"
+10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705194,705215,Correct US deaths data
+10/06/2021,time_series_covid19_confirmed_US.csv,"Washoe, Nevada, US",10/05/2021,62215,61509,"Correct Washoe, Nevada, US confirmed data"
+10/06/2021,time_series_covid19_confirmed_global.csv,US,10/05/2021,43948011,43947305,Correct US confirmed data
+10/06/2021,time_series_covid19_confirmed_US.csv,"Out of IL, Illinois, US",10/05/2021,4,9,"Correct Out of IL, Illinois, US confirmed data"
+10/06/2021,time_series_covid19_confirmed_global.csv,US,10/05/2021,43947305,43947310,Correct US confirmed data
+10/06/2021,time_series_covid19_confirmed_US.csv,"Harding, New Mexico, US",10/05/2021,21,28,"Correct Harding, New Mexico, US confirmed data"
+10/06/2021,time_series_covid19_confirmed_global.csv,US,10/05/2021,43947305,43947317,Correct US confirmed data
+10/06/2021,time_series_covid19_deaths_US.csv,"Northwest Arctic, Alaska, US",10/05/2021,4,5,"Correct Northwest Arctic, Alaska, US deaths data"
+10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705215,705216,Correct US deaths data
+10/06/2021,time_series_covid19_deaths_US.csv,"Dolores, Colorado, US",10/05/2021,1,2,"Correct Dolores, Colorado, US deaths data"
+10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705216,705217,Correct US deaths data
+10/06/2021,time_series_covid19_deaths_US.csv,"Echols, Georgia, US",10/05/2021,9,10,"Correct Echols, Georgia, US deaths data"
+10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705217,705218,Correct US deaths data
+10/06/2021,time_series_covid19_deaths_US.csv,"Brown, Illinois, US",10/05/2021,8,9,"Correct Brown, Illinois, US deaths data"
+10/06/2021,time_series_covid19_deaths_global.csv,US,10/05/2021,705218,705219,Correct US deaths data
