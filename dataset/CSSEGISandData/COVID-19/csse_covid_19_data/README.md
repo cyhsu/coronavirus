@@ -453,7 +453,7 @@ United States
 * Oregon: Providing data Monday-Friday (as of July 10, 2021).
 * Rhode Island: Providing state level data Monday-Friday. County level cases and death data is released once per week.
 * South Carlina: Providing data Monday-Friday.
-* South Dakota: Providing data Monday-Friday (as of August 16, 2021). ~~Providing data Wednesdays only.~~
+* South Dakota: Providing data Monday-Friday (as of August 16, 2021). ~~Providing data Wednesdays only.~~ Saturday and Sunday data will be reported on Tuesdays.
 * Tennessee: Providing data Monday-Friday.
 * Utah: Providing data Monday-Friday.
 * Vermont: Providing data daily (as of August 21, 2021). ~~Providing data Monday-Friday.~~
