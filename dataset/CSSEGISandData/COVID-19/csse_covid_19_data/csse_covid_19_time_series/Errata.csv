@@ -31582,3 +31582,7 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/18/2021,time_series_covid19_deaths_global.csv,Peru,10/16/2021,199775,199816,Correct Peru deaths data
 10/18/2021,time_series_covid19_deaths_global.csv,Peru,10/17/2021,199816,199843,Correct Peru deaths data
 10/18/2021,time_series_covid19_confirmed_global.csv,Canada,10/15/2021,417831,418508,Correct Canada confirmed data
+10/18/2021,time_series_covid19_confirmed_US.csv,"Bexar, Texas, US",10/16/2021,316895,317209,"Correct Bexar, Texas, US confirmed data"
+10/18/2021,time_series_covid19_confirmed_US.csv,"Bexar, Texas, US",10/17/2021,316895,317916,"Correct Bexar, Texas, US confirmed data"
+10/18/2021,time_series_covid19_confirmed_global.csv,US,10/16/2021,44916423,44916737,Correct US confirmed data
+10/18/2021,time_series_covid19_confirmed_global.csv,US,10/17/2021,44933336,44934357,Correct US confirmed data
