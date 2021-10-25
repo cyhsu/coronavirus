@@ -134,3 +134,22 @@ csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_globa
 sent 79142752 bytes  received 2744 bytes  52763664.00 bytes/sec
 total size is 504909961  speedup is 6.38
 /Users/cyhsu/dev/virus/dataset/icu/icu.10-25-2021_15:00:05
+[master 1678ebb1f] Update on  10-25-2021_15:00:22
+ 129 files changed, 31930 insertions(+), 7618 deletions(-)
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/10-20-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/10-21-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/10-22-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/10-23-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/10-24-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/10-20-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/10-21-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/10-22-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/10-23-2021.csv
+ create mode 100644 dataset/CSSEGISandData/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/10-24-2021.csv
+ create mode 100644 dataset/JohnsHopkins/Johns_Hopkins.10-25-2021_15:00:03
+ create mode 100644 dataset/PublicHealthEmergencyStatus/AmericanRedCross.log.2021-10-25_20:00:06
+ create mode 100644 dataset/cases/texas/Texas.DSHS.10-25-2021_15:00:00
+ create mode 100644 dataset/icu/icu.10-25-2021_15:00:05
+ create mode 100644 logs/update.log.2021-10-25_20:00:00
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+ 
