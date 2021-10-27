@@ -31895,3 +31895,9 @@ Update Date,File,Location,Field Updated,Old,New,Comments
 10/27/2021,time_series_covid19_deaths_US.csv,"District of Columbia,District of Columbia,US",10/26/2021,1186,1187,"Correct District of Columbia,District of Columbia,US deaths data"
 10/27/2021,time_series_covid19_confirmed_global.csv,US,10/26/2021,45626981,45627021,Correct US confirmed data
 10/27/2021,time_series_covid19_deaths_global.csv,US,10/26/2021,739089,739090,Correct US deaths data
+10/27/2021,time_series_covid19_confirmed_global.csv,Canada,10/23/2021,200898,201511,Correct Canada confirmed data
+10/27/2021,time_series_covid19_confirmed_global.csv,Canada,10/24/2021,200898,202040,Correct Canada confirmed data
+10/27/2021,time_series_covid19_confirmed_global.csv,Canada,10/25/2021,200898,202516,Correct Canada confirmed data
+10/27/2021,time_series_covid19_confirmed_global.csv,Canada,10/26/2021,200898,202973,Correct Canada confirmed data
+10/27/2021,time_series_covid19_deaths_global.csv,Canada,10/25/2021,2109,2129,Correct Canada deaths data
+10/27/2021,time_series_covid19_deaths_global.csv,Canada,10/26/2021,2109,2131,Correct Canada deaths data
