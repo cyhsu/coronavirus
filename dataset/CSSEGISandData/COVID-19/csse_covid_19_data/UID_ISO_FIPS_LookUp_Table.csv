@@ -771,38 +771,38 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 12414,CA,CAN,124,,,Grand Princess,Canada,,,"Grand Princess, Canada",
 12415,CA,CAN,124,,,Recovered,Canada,,,"Recovered, Canada",
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",39403
-156,CN,CHN,156,,,,China,35.8617,104.19545,China,1404676330
-15601,CN,CHN,156,,,Anhui,China,31.8257,117.2264,"Anhui, China",63240000
-15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21540000
-15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",31020000
-15604,CN,CHN,156,,,Fujian,China,26.0789,117.9874,"Fujian, China",39410000
-15605,CN,CHN,156,,,Gansu,China,35.7518,104.2861,"Gansu, China",26370000
-15606,CN,CHN,156,,,Guangdong,China,23.3417,113.4244,"Guangdong, China",113460000
-15607,CN,CHN,156,,,Guangxi,China,23.8298,108.7881,"Guangxi, China",49260000
-15608,CN,CHN,156,,,Guizhou,China,26.8154,106.8748,"Guizhou, China",36000000
-15609,CN,CHN,156,,,Hainan,China,19.1959,109.7453,"Hainan, China",9340000
-15610,CN,CHN,156,,,Hebei,China,37.8957,114.9042,"Hebei, China",75560000
-15611,CN,CHN,156,,,Heilongjiang,China,47.862,127.7615,"Heilongjiang, China",37730000
-15612,CN,CHN,156,,,Henan,China,33.882,113.614,"Henan, China",96050000
-15613,CN,CHN,156,,,Hubei,China,30.9756,112.2707,"Hubei, China",59170000
-15614,CN,CHN,156,,,Hunan,China,27.6104,111.7088,"Hunan, China",68990000
-15615,CN,CHN,156,,,Inner Mongolia,China,44.0935,113.9448,"Inner Mongolia, China",25340000
-15616,CN,CHN,156,,,Jiangsu,China,32.9711,119.455,"Jiangsu, China",80510000
-15617,CN,CHN,156,,,Jiangxi,China,27.614,115.7221,"Jiangxi, China",46480000
-15618,CN,CHN,156,,,Jilin,China,43.6661,126.1923,"Jilin, China",27040000
-15619,CN,CHN,156,,,Liaoning,China,41.2956,122.6085,"Liaoning, China",43590000
-15620,CN,CHN,156,,,Ningxia,China,37.2692,106.1655,"Ningxia, China",6880000
-15621,CN,CHN,156,,,Qinghai,China,35.7452,95.9956,"Qinghai, China",6030000
-15622,CN,CHN,156,,,Shaanxi,China,35.1917,108.8701,"Shaanxi, China",38640000
-15623,CN,CHN,156,,,Shandong,China,36.3427,118.1498,"Shandong, China",100470000
-15624,CN,CHN,156,,,Shanghai,China,31.202,121.4491,"Shanghai, China",24240000
-15625,CN,CHN,156,,,Shanxi,China,37.5777,112.2922,"Shanxi, China",37180000
-15626,CN,CHN,156,,,Sichuan,China,30.6171,102.7103,"Sichuan, China",83410000
-15627,CN,CHN,156,,,Tianjin,China,39.3054,117.323,"Tianjin, China",15600000
-15628,CN,CHN,156,,,Tibet,China,31.6927,88.0924,"Tibet, China",3440000
-15629,CN,CHN,156,,,Xinjiang,China,41.1129,85.2401,"Xinjiang, China",24870000
-15630,CN,CHN,156,,,Yunnan,China,24.974,101.487,"Yunnan, China",48300000
-15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China",57370000
+156,CN,CHN,156,,,,China,35.8617,104.19545,China,1411778724
+15601,CN,CHN,156,,,Anhui,China,31.8257,117.2264,"Anhui, China",61027171
+15602,CN,CHN,156,,,Beijing,China,40.1824,116.4142,"Beijing, China",21893095
+15603,CN,CHN,156,,,Chongqing,China,30.0572,107.874,"Chongqing, China",32054159
+15604,CN,CHN,156,,,Fujian,China,26.0789,117.9874,"Fujian, China",41540086
+15605,CN,CHN,156,,,Gansu,China,35.7518,104.2861,"Gansu, China",25019831
+15606,CN,CHN,156,,,Guangdong,China,23.3417,113.4244,"Guangdong, China",126012510
+15607,CN,CHN,156,,,Guangxi,China,23.8298,108.7881,"Guangxi, China",50126804
+15608,CN,CHN,156,,,Guizhou,China,26.8154,106.8748,"Guizhou, China",38562148
+15609,CN,CHN,156,,,Hainan,China,19.1959,109.7453,"Hainan, China",10081232
+15610,CN,CHN,156,,,Hebei,China,37.8957,114.9042,"Hebei, China",74610235
+15611,CN,CHN,156,,,Heilongjiang,China,47.862,127.7615,"Heilongjiang, China",31850088
+15612,CN,CHN,156,,,Henan,China,33.882,113.614,"Henan, China",99365519
+15613,CN,CHN,156,,,Hubei,China,30.9756,112.2707,"Hubei, China",57752557
+15614,CN,CHN,156,,,Hunan,China,27.6104,111.7088,"Hunan, China",66444864
+15615,CN,CHN,156,,,Inner Mongolia,China,44.0935,113.9448,"Inner Mongolia, China",24049155
+15616,CN,CHN,156,,,Jiangsu,China,32.9711,119.455,"Jiangsu, China",84748016
+15617,CN,CHN,156,,,Jiangxi,China,27.614,115.7221,"Jiangxi, China",45188635
+15618,CN,CHN,156,,,Jilin,China,43.6661,126.1923,"Jilin, China",24073453
+15619,CN,CHN,156,,,Liaoning,China,41.2956,122.6085,"Liaoning, China",42591407
+15620,CN,CHN,156,,,Ningxia,China,37.2692,106.1655,"Ningxia, China",7202654
+15621,CN,CHN,156,,,Qinghai,China,35.7452,95.9956,"Qinghai, China",5923957
+15622,CN,CHN,156,,,Shaanxi,China,35.1917,108.8701,"Shaanxi, China",39528999
+15623,CN,CHN,156,,,Shandong,China,36.3427,118.1498,"Shandong, China",101527453
+15624,CN,CHN,156,,,Shanghai,China,31.202,121.4491,"Shanghai, China",24870895
+15625,CN,CHN,156,,,Shanxi,China,37.5777,112.2922,"Shanxi, China",34915616
+15626,CN,CHN,156,,,Sichuan,China,30.6171,102.7103,"Sichuan, China",83674866
+15627,CN,CHN,156,,,Tianjin,China,39.3054,117.323,"Tianjin, China",13866009
+15628,CN,CHN,156,,,Tibet,China,31.6927,88.0924,"Tibet, China",3648100
+15629,CN,CHN,156,,,Xinjiang,China,41.1129,85.2401,"Xinjiang, China",25852345
+15630,CN,CHN,156,,,Yunnan,China,24.974,101.487,"Yunnan, China",47209277
+15631,CN,CHN,156,,,Zhejiang,China,29.1832,120.0934,"Zhejiang, China",64567588
 15699,CN,CHN,156,,,Unknown,China,,,"Unknown, China",
 344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",7496988
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",649342
